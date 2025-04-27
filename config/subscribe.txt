@@ -1,12 +1,18 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+https://live.kilvn.com/iptv.m3u
 http://wx.thego.cn/df.txt
 http://8.138.7.223/v12.txt
+https://tv.iill.top/m3u/Gather
+https://tv.iill.top/m3u/Live
 http://wx.thego.cn/backup.m3u
 http://tot.totalh.net/tttt.txt
 https://live.zbds.top/tv/iptv4.txt
 https://live.zbds.top/tv/iptv6.txt
+https://live.izbds.com/tv/iptv4.txt
+https://live.izbds.com/tv/iptv4.m3u
+https://myernestlu.github.io/zby.txt
 https://m3u.ibert.me/fmml_ipv6.m3u
 https://live.zbds.top/tv/iptv6.m3u
 https://live.zbds.top/tv/iptv4.m3u
@@ -14,7 +20,15 @@ https://live.izbds.com/tv/iptv4.txt
 https://www.cloudplains.cn/result.txt
 https://iptv-org.github.io/iptv/index.m3u
 https://live.fanmingming.cn/tv/m3u/ipv6.m3u
+https://epg.pw/test_channels.m3u
+https://epg.pw/test_channels_hong_kong.m3u
+https://epg.pw/test_channels_macau.m3u
+https://epg.pw/test_channels_taiwan.m3u
+https://iptv-org.github.io/iptv/countries/tw.m3u
+https://epg.pw/test_channels_singapore.m3u
+https://epg.pw/test_channels_malaysia.m3u
 https://gitee.com/lixiao-1-98/iptv/raw/master/ipv4.txt
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hbgd.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 https://gitea.com/liliang74120/cxkj6863/src/branch/main/zb.txt
 https://gitlab.com/Meroser/IPTV/-/raw/main/IPTV-demo.m3u
