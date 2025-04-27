@@ -22,8 +22,8 @@ CCTV-15,CCTV15音乐
 CCTV-16,CCTV16体育赛事,CCTV16奥林匹克
 CCTV-17,CCTV17农业农村,CCTV17农业
 徐州市广播电视台 科教频道,滁州市广播电视台 科教频道
-大爱1,大爱1台
-大爱2,大爱2台
+大爱1,大爱1台,大爱一
+大爱2,大爱2台,大爱二
 TVB星河,TVB星河台
 中视,中視,中視HD,中视HD,中视频道,中視频道
 台視,台視HD,台视,台视HD
@@ -41,6 +41,15 @@ HOY 77台,HOY 77台(開電視77台)
 翡翠,翡翠台
 CTiVariety,CTi Variety (中天綜合台) (720p)
 美亞電影台,美亞電影台[HK]
+
+
+
+
+
+
+
+
+
 
 巴西 TV A7 Plus,TV A7 Plus
 Kanade,Kanade (720p),Kanade (1080p),Kanade 电影
@@ -91,5 +100,3 @@ National Geographic Wild
 Арсенал,Арсенал (480p) [Not 24/7],Арсенал (720p) [Not 24/7],
 Наука,Наука HD,Наука (480p) [Not 24/7]
 Asharq Discovery,Asharq Discovery (480p) [Geo-blocked],Asharq Discovery (720p) [Geo-blocked],Asharq Discovery (1080p) [Geo-blocked],Asharq Discovery (720p),Asharq Discovery (480p)
-
-
