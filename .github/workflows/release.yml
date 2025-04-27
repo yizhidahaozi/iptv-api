@@ -1,87 +1,145 @@
+# 工作流名称
 name: Release
+# 触发工作流的条件，这里设置为手动触发，且仅在 master 分支上可用
 on:
   workflow_dispatch:
     branches:
       - master
 
+# 定义工作流中的作业
 jobs:
   build:
+    # 指定作业运行的环境，这里使用最新的 Windows 系统
     runs-on: windows-latest
+    # 定义作业的步骤
     steps:
+      # 步骤 1：检出代码
       - name: Checkout code
+        # 使用 actions/checkout 动作来检出代码到工作目录
         uses: actions/checkout@v4
 
+      # 步骤 2：设置 Python 环境
       - name: Set up Python
+        # 使用 actions/setup-python 动作来设置 Python 环境
         uses: actions/setup-python@v4
         with:
+          # 设置 Python 版本为 3.13
           python-version: '3.13'
+          # 更新环境变量
           update-environment: true
+          # 使用 pipenv 进行缓存
           cache: 'pipenv'
 
+      # 步骤 3：安装 pipenv
       - name: Install pipenv
+        # 使用 pip3 安装 pipenv
         run: pip3 install --user pipenv
 
+      # 步骤 4：使用 pipenv 安装依赖
       - name: Install dependencies with pipenv
+        # 创建并激活 Python 3.13 的虚拟环境，并安装开发依赖
         run: pipenv --python 3.13 && pipenv install --dev
 
+      # 步骤 5：构建应用程序
       - name: Build the application
+        # 在虚拟环境中使用 PyInstaller 构建应用程序，使用 tkinter_ui/tkinter_ui.spec 配置文件
         run: pipenv run pyinstaller tkinter_ui/tkinter_ui.spec
 
+      # 步骤 6：列出 dist 目录的内容
       - name: List dist directory contents
+        # 使用 dir 命令列出 dist 目录下的文件和文件夹
         run: dir dist
 
+      # 步骤 7：从 version.json 文件中获取信息
       - name: Get info from version.json
+        # 给这个步骤设置一个 ID，方便后续引用
         id: get_info
         run: |
+          # 使用 PowerShell 读取 version.json 文件并将其转换为 JSON 对象
           $json = Get-Content version.json | ConvertFrom-Json
+          # 将版本号和应用名称写入环境变量
           echo "version=$($json.version)" >> $env:GITHUB_ENV
           echo "name=$($json.name)" >> $env:GITHUB_ENV
+        # 指定使用 PowerShell 脚本执行
         shell: pwsh
 
+      # 步骤 8：压缩 dist 目录
       - name: Compress dist directory
         run: |
+          # 使用 PowerShell 的 Compress-Archive 命令将 dist 目录下的所有文件压缩成一个 ZIP 文件
           Compress-Archive -Path dist\* -DestinationPath dist\${{ env.name }}-v${{ env.version }}.zip
+        # 指定使用 PowerShell 脚本执行
         shell: pwsh
 
+      # 步骤 9：上传构建产物作为 GitHub Actions 工件
       - name: Upload artifact
+        # 使用 actions/upload-artifact 动作上传压缩文件
         uses: actions/upload-artifact@v4
         with:
+          # 工件的名称，使用从 version.json 中获取的名称和版本号
           name: ${{ env.name }}-v${{ env.version }}
+          # 要上传的文件路径
           path: dist\${{ env.name }}-v${{ env.version }}.zip
 
+      # 步骤 10：安装 jq 工具
       - name: Install jq
+        # 使用 Chocolatey 包管理器安装 jq 工具
         run: choco install jq
 
+      # 步骤 11：从 CHANGELOG.md 文件中提取本次版本的更新日志
       - name: Get changelog
+        # 给这个步骤设置一个 ID，方便后续引用
         id: get_changelog
         run: |
+          # 获取当前版本号
           $version = "${{ env.version }}"
+          # 读取 CHANGELOG.md 文件内容并合并为一个字符串
           $changelog = (Get-Content CHANGELOG.md) -join "`n"
+          # 截取本次版本的更新日志
           $changelog = $changelog -replace "(?s).*?## v$version", ""
           $changelog = $changelog -replace "(?s)## v.*", ""
           $changelog = $changelog -replace "(?s).*?###", "###"
+          # 去除末尾的换行符
           $changelog = $changelog.TrimEnd("`n")
+          # 使用 jq 工具将更新日志转换为 JSON 字符串，并写入环境变量
           $changelog | jq -Rs '.' | ForEach-Object { echo "changelog=$_"; echo "changelog=$_" >> $env:GITHUB_ENV }
+        # 指定使用 PowerShell 脚本执行
         shell: pwsh
 
+      # 步骤 12：创建 GitHub 发布版本
       - name: Create Release
+        # 给这个步骤设置一个 ID，方便后续引用
         id: create_release
+        # 使用 actions/create-release 动作创建发布版本
         uses: actions/create-release@v1
         env:
+          # 使用 GitHub 令牌进行身份验证
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          # 标签名称，使用从 version.json 中获取的版本号
           tag_name: ${{ env.version }}
+          # 发布版本名称，使用 v 前缀加上版本号
           release_name: v${{ env.version }}
+          # 发布版本的描述，使用从 CHANGELOG.md 中提取的更新日志
           body: ${{ fromJSON(env.changelog) }}
+          # 是否为草稿版本
           draft: false
+          # 是否为预发布版本
           prerelease: false
 
+      # 步骤 13：上传发布版本的附件
       - name: Upload Release Asset
+        # 使用 actions/upload-release-asset 动作上传压缩文件作为发布版本的附件
         uses: actions/upload-release-asset@v1
         env:
+          # 使用 GitHub 令牌进行身份验证
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          # 上传附件的 URL，从创建发布版本步骤的输出中获取
           upload_url: ${{ steps.create_release.outputs.upload_url }}
+          # 要上传的文件路径
           asset_path: dist/${{ env.name }}-v${{ env.version }}.zip
+          # 附件的名称
           asset_name: ${{ env.name }}-v${{ env.version }}.zip
+          # 附件的内容类型
           asset_content_type: application/zip
