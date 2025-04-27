@@ -1,36 +1,58 @@
+# 工作流名称
 name: 'Update schedule'
 
+# 触发工作流的条件
 on:
+  # 定时触发，每天的9点和17点执行
   schedule:
     - cron: '0 17,9 * * *'
+  # 手动触发，支持从master、dev、gd分支触发
   workflow_dispatch:
     branches:
       - master
       - dev
       - gd
+
+# 定义工作流中的作业
 jobs:
   push:
+    # 指定作业运行的环境，使用矩阵策略选择操作系统
     runs-on: ${{ matrix.operating-system }}
+    # 设置作业的超时时间为120分钟
     timeout-minutes: 120
+    # 定义矩阵策略，这里只选择了ubuntu-latest操作系统
     strategy:
       matrix:
         operating-system: [ 'ubuntu-latest' ]
+    # 定义作业的步骤
     steps:
+      # 步骤1：设置分支名称
       - name: Set branch name
+        # 给这个步骤设置一个ID，方便后续引用
         id: vars
+        # 运行脚本，根据仓库所有者是否为Guovin来设置分支名称
         run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
+      # 步骤2：检出代码
       - uses: actions/checkout@v3
         with:
+          # 使用之前设置的分支名称来检出代码
           ref: ${{ env.BRANCH_NAME }}
+      # 步骤3：设置Python环境
       - name: Run with setup-python 3.13
         uses: actions/setup-python@v4
         with:
+          # 设置Python版本为3.13
           python-version: '3.13'
+          # 更新环境变量
           update-environment: true
+          # 使用pipenv进行缓存
           cache: 'pipenv'
+      # 步骤4：检查open_driver配置
       - name: Check open_driver config
+        # 给这个步骤设置一个ID，方便后续引用
         id: check_driver
         run: |
+          # 运行Python脚本检查是否开启open_driver，并将结果写入环境变量
           echo "OPEN_DRIVER=$(python -c '
           try:
             from utils.config import config
@@ -38,30 +60,50 @@ jobs:
           except:
             open_driver = False
           print(open_driver)')" >> $GITHUB_ENV
+      # 步骤5：设置Chrome浏览器
       - name: Set up Chrome
+        # 只有当OPEN_DRIVER为True时才执行此步骤
         if: env.OPEN_DRIVER == 'True'
         uses: browser-actions/setup-chrome@latest
         with:
+          # 使用稳定版本的Chrome
           chrome-version: stable
+      # 步骤6：下载Chrome驱动
       - name: Download chrome driver
+        # 只有当OPEN_DRIVER为True时才执行此步骤
         if: env.OPEN_DRIVER == 'True'
         uses: nanasess/setup-chromedriver@master
+      # 步骤7：安装FFmpeg
       - name: Install FFmpeg
+        # 更新系统包列表并安装FFmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      # 步骤8：安装pipenv
       - name: Install pipenv
+        # 使用pip3安装pipenv
         run: pip3 install --user pipenv
+      # 步骤9：安装依赖
       - name: Install dependecies
+        # 创建并激活Python 3.13的虚拟环境，并安装项目依赖
         run: pipenv --python 3.13 && pipenv install --deploy
+      # 步骤10：安装Selenium
       - name: Install selenium
+        # 只有当OPEN_DRIVER为True时才执行此步骤
         if: env.OPEN_DRIVER == 'True'
+        # 在虚拟环境中安装Selenium
         run: pipenv install selenium
+      # 步骤11：执行更新操作
       - name: Update
+        # 在虚拟环境中运行开发命令
         run: pipenv run dev
+      # 步骤12：如果有文件更改，提交并推送代码
       - name: Commit and push if changed
         run: |
+          # 配置Git的用户邮箱和用户名
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          # 添加所有更改的文件到暂存区
           git add .
+          # 检查暂存区是否有更改，如果有则提交并推送代码
           if ! git diff --staged --quiet; then
             git commit -m "Github Action Auto Updated"
             git push --force
