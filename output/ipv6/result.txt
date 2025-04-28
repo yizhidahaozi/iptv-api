@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-28 01:52:52,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
+2025-04-28 17:53:40,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视频道,#genre#
 CCTV1,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
@@ -1264,6 +1264,10 @@ CETV4,http://iptv.huuc.edu.cn/hls/cetv4.m3u8
 2023年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
+📺新闻,#genre#
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+
 🌊港·澳·台,#genre#
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -1511,6 +1515,11 @@ ShopChannel,https://stream3.shopch.jp/HLS/master.m3u8
 QVC,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 Nippon TV (544p),https://ntv4.mov3.co/hls/ntv.m3u8
 
+🌊韩国,#genre#
+BabyFirst,https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+
+🌊朝鲜,#genre#
+
 🌊德国,#genre#
 Dokusat (1080p),https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 123tv,https://123tv-mx1.flex-cdn.net/index.m3u8
@@ -1532,8 +1541,6 @@ GO TV (720p),https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 AgroBrasil TV,http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 AgroMais,https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
 Aish TV,https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
-
-🌊韩国,#genre#
 
 🌊阿拉伯,#genre#
 Ramez (1080p),https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
@@ -1565,8 +1572,6 @@ GZT,https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 
 🌊缅甸,#genre#
 5 Plus,https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
-
-🌊朝鲜,#genre#
 
 🌊蒙古,#genre#
 
