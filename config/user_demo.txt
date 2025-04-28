@@ -1402,7 +1402,12 @@ BTV 纪实
 2025年春晚
 
 
-📺中国,#genre#
+📺新闻,#genre#
+全天新闻
+亚洲新闻
+
+
+
 
 
 🌊港·澳·台,#genre#
@@ -1561,8 +1566,9 @@ MMHoneyHD
 CMOREFIRSTHDSE
 КулинарТВ
 RUSSISCHERJAHRMARKT
-
-
+俄罗斯军事频道
+俄罗斯中国环球
+俄罗斯俄罗斯一台
 
 
 
@@ -1612,6 +1618,7 @@ Action
 FOX
 QVC
 
+日本NHK华语
 
 
 エヌエイチケイ かごしかい
@@ -1638,7 +1645,7 @@ ABEMAアニメ
 ABEMAアニメ2
 ABEMA80年代
 ABEMA海外新闻
-
+日本Japan News 24
 ABEMA 新闻
 ABEMA NEWS会見
 朝日新聞デジタル
@@ -1659,6 +1666,64 @@ NHK華語視界
 フェニックステレビ
 
 
+
+🌊韩国,#genre#
+CTS기독교TV (720p)
+EBS 1 (400p) [Not 24/7]
+EBS 2 (400p) [Not 24/7]
+EBS2
+EBS 3 (400p) [Not 24/7]
+EBS E (400p) [Not 24/7]
+GugakTV 국악방송 (1080p)
+jobplus
+국방TV
+Job Plus TV (한국직업방송) (480p)
+JTV
+KCTV 광주 CH05 (720p) [Not 24/7]
+MBC
+MBC Andong (안동 MBC) (360p) [Not 24/7]
+MBC Busan (부산MBC) (360p) [Not 24/7]
+MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
+MBC Chungbuk (MBC 충북) (720p) [Not 24/7]
+MBC Daegu (대구 MBC) (480p) [Not 24/7]
+TBS Seoul (720p)
+OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
+NBS Korea Agricultural Broadca
+TJBSBS
+KBCTV
+CJMBC
+Arirang
+KBCSBS
+
+韩国EBS 第一频道
+韩国EBS 少儿频道
+韩国EBS 儿童频道
+韩国KCTV
+韩国UBC SBS
+韩国KOREA YTN
+韩国KTV 韩国电视
+韩国阿里郎WORLDworld
+韩国阿里郎WORLD
+TBS News Bird
+KOREA YTN Science
+Luxury World
+韩国BBS佛教广播
+BabyFirst
+CPAC
+
+
+
+
+
+
+
+🌊朝鲜,#genre#
+TV Chosun (720p)
+TV Chosun 2 (720p)
+朝鮮恩情台
+룡남산텔레비죤
+RyongnamsanTelevision
+朝鲜中央台
 
 
 
@@ -1727,34 +1792,6 @@ Central TV
 
 
 
-
-🌊韩国,#genre#
-CTS기독교TV (720p)
-EBS 1 (400p) [Not 24/7]
-EBS 2 (400p) [Not 24/7]
-EBS2
-EBS 3 (400p) [Not 24/7]
-EBS E (400p) [Not 24/7]
-GugakTV 국악방송 (1080p)
-jobplus
-국방TV
-Job Plus TV (한국직업방송) (480p)
-JTV
-KCTV 광주 CH05 (720p) [Not 24/7]
-MBC
-MBC Andong (안동 MBC) (360p) [Not 24/7]
-MBC Busan (부산MBC) (360p) [Not 24/7]
-MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
-MBC Chungbuk (MBC 충북) (720p) [Not 24/7]
-MBC Daegu (대구 MBC) (480p) [Not 24/7]
-TBS Seoul (720p)
-OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
-NBS Korea Agricultural Broadca
-TJBSBS
-KBCTV
-CJMBC
-Arirang
-KBCSBS
 
 
 
@@ -1847,6 +1884,11 @@ AirTV
 AnGiangTV
 An Giang TV
 ATV
+越南人民报
+
+
+
+
 
 
 🌊乌克兰,#genre#
@@ -1885,13 +1927,6 @@ MRTVNews
 OneNews
 
 
-
-🌊朝鲜,#genre#
-TV Chosun (720p)
-TV Chosun 2 (720p)
-朝鮮恩情台
-룡남산텔레비죤
-RyongnamsanTelevision
 
 
 🌊蒙古,#genre#
