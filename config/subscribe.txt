@@ -2,8 +2,6 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://live.kilvn.com/iptv.m3u
-http://wx.thego.cn/df.txt
-http://8.138.7.223/v12.txt
 https://tv.iill.top/m3u/Gather
 https://tv.iill.top/m3u/Live
 http://wx.thego.cn/backup.m3u
