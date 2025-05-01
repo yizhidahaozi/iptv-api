@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/yizhidahaozi/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-05-01 01:57:32
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-05-01 18:10:17
 http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
@@ -53,6 +53,8 @@ https://live.metshop.top/hbgd.php?id=cctvnews_1000
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="📺央视频道",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="📺央视频道",CGTN
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000009569/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CGTN 俄语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN 俄语.png" group-title="📺央视频道",CGTN 俄语
 https://0472.org/hls/cgtne.m3u8
 #EXTINF:-1 tvg-name="CGTN 法语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN 法语.png" group-title="📺央视频道",CGTN 法语
@@ -2516,7 +2518,7 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 #EXTINF:-1 tvg-name="2024年春晚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2024年春晚.png" group-title="📺春晚",2024年春晚
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/亚洲新闻.png" group-title="📺新闻",亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1 tvg-name="亚洲新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/亚洲新闻.png" group-title="📺新闻",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 #EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/半岛新闻.png" group-title="🌊港·澳·台",半岛新闻
@@ -2795,6 +2797,8 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
 #EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华日韩.png" group-title="🌊港·澳·台",龙华日韩
 http://cdn3.1678520.xyz/live/?id=lhrh
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华日韩.png" group-title="🌊港·澳·台",龙华日韩
+https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华戏剧.png" group-title="🌊港·澳·台",龙华戏剧
 https://cdn3.132.us.kg/live/lhxj/stream.m3u8
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华戏剧.png" group-title="🌊港·澳·台",龙华戏剧

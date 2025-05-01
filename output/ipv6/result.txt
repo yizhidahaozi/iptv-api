@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-01 01:57:32,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
+2025-05-01 18:10:17,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视频道,#genre#
 CCTV1,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
@@ -28,6 +28,7 @@ CGTN,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN,https://live.metshop.top/hbgd.php?id=cctvnews_1000
 CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8
 CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+CGTN,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000009569/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=3
 CGTN 俄语,https://0472.org/hls/cgtne.m3u8
 CGTN 法语,https://0472.org/hls/cgtnf.m3u8
 CGTN 纪录,https://0472.org/hls/cgtnd.m3u8
@@ -1269,7 +1270,7 @@ CETV4,http://iptv.huuc.edu.cn/hls/cetv4.m3u8
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 📺新闻,#genre#
-亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 
 🌊港·澳·台,#genre#
@@ -1411,6 +1412,7 @@ tvbs新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 Arirang TV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
 龙华日韩,http://cdn3.1678520.xyz/live/?id=lhrh
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://cdn3.132.us.kg/live/lhxj/stream.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华戏剧,https://tv.iill.top/litv/litv-longturn18
