@@ -1590,8 +1590,7 @@ CETV4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/100001000000000600000000
 2023年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
-📺新闻,#genre#
-亚洲新闻,http://aktv_stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+📺新 闻,#genre#
 亚洲新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5397&tk=e503191f8e20
 亚洲新闻,http://live_bin.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 
@@ -1600,8 +1599,6 @@ CETV4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/100001000000000600000000
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-東森新聞,https://gdfire2.67890123.cn:8088/live/dsxw.m3u8
-東森新聞,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 tvbs新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 无线新闻,http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
