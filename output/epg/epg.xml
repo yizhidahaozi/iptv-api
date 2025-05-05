@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250504175959 +0800">
+<tv date="20250505100510 +0800">
 	<channel id="浙江卫视">
 		<display-name lang="zh">浙江卫视</display-name>
 	</channel>
@@ -16074,182 +16074,215 @@
 	<channel id="江苏教育">
 		<display-name lang="zh">江苏教育</display-name>
 	</channel>
-	<programme channel="江苏教育" start="20250505000000 +0800" stop="20250505001500 +0800">
+	<programme channel="江苏教育" start="20250505000000 +0800" stop="20250505001800 +0800">
 		<title lang="zh">一站到底</title>
 	</programme>
-	<programme channel="江苏教育" start="20250505001500 +0800" stop="20250505003000 +0800">
-		<title lang="zh">凡事讲礼</title>
+	<programme channel="江苏教育" start="20250505001800 +0800" stop="20250505004800 +0800">
+		<title lang="zh">奇趣大自然</title>
 	</programme>
-	<programme channel="江苏教育" start="20250505003000 +0800" stop="20250505003500 +0800">
+	<programme channel="江苏教育" start="20250505004800 +0800" stop="20250505010800 +0800">
+		<title lang="zh">江苏职教风采</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505010800 +0800" stop="20250505023400 +0800">
+		<title lang="zh">一站到底</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505023400 +0800" stop="20250505023900 +0800">
 		<title lang="zh">江南文脉</title>
 	</programme>
-	<programme channel="江苏教育" start="20250505003500 +0800" stop="20250505005000 +0800">
+	<programme channel="江苏教育" start="20250505023900 +0800" stop="20250505025900 +0800">
 		<title lang="zh">教育周刊</title>
 	</programme>
-	<programme channel="江苏教育" start="20250505005000 +0800" stop="20250505022000 +0800">
+	<programme channel="江苏教育" start="20250505025900 +0800" stop="20250505035900 +0800">
 		<title lang="zh">奇趣大自然</title>
 	</programme>
-	<programme channel="江苏教育" start="20250505022000 +0800" stop="20250505022500 +0800">
+	<programme channel="江苏教育" start="20250505035900 +0800" stop="20250505040800 +0800">
 		<title lang="zh">微讲堂</title>
 	</programme>
-	<programme channel="江苏教育" start="20250505022500 +0800" stop="20250505024500 +0800">
-		<title lang="zh">未来科学家</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505024500 +0800" stop="20250505030500 +0800">
-		<title lang="zh">凡事讲礼</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505030500 +0800" stop="20250505031000 +0800">
-		<title lang="zh">江南文脉</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505031000 +0800" stop="20250505033000 +0800">
+	<programme channel="江苏教育" start="20250505040800 +0800" stop="20250505042800 +0800">
 		<title lang="zh">成长</title>
 	</programme>
-	<programme channel="江苏教育" start="20250505033000 +0800" stop="20250505045400 +0800">
+	<programme channel="江苏教育" start="20250505042800 +0800" stop="20250505061500 +0800">
 		<title lang="zh">一站到底</title>
 	</programme>
-	<programme channel="江苏教育" start="20250505045400 +0800" stop="20250505051000 +0800">
-		<title lang="zh">凡事讲礼</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505051000 +0800" stop="20250505051500 +0800">
-		<title lang="zh">江南文脉</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505051500 +0800" stop="20250505053500 +0800">
-		<title lang="zh">传承人</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505053500 +0800" stop="20250505055500 +0800">
-		<title lang="zh">未来科学家</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505055500 +0800" stop="20250505060000 +0800">
-		<title lang="zh">江南文脉</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505060000 +0800" stop="20250505060500 +0800">
-		<title lang="zh">微讲堂</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505060500 +0800" stop="20250505061200 +0800">
-		<title lang="zh">江南文脉</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505061200 +0800" stop="20250505073100 +0800">
-		<title lang="zh">一站到底</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505073100 +0800" stop="20250505081200 +0800">
-		<title lang="zh">勇者大冲关</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505081200 +0800" stop="20250505082000 +0800">
-		<title lang="zh">一站到底</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505082000 +0800" stop="20250505084000 +0800">
-		<title lang="zh">江苏教育新闻</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505084000 +0800" stop="20250505091800 +0800">
-		<title lang="zh">奇趣大自然</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505091800 +0800" stop="20250505100900 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505100900 +0800" stop="20250505113200 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505113200 +0800" stop="20250505113700 +0800">
-		<title lang="zh">微讲堂</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505113700 +0800" stop="20250505120000 +0800">
-		<title lang="zh">江南文脉</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505120000 +0800" stop="20250505122000 +0800">
-		<title lang="zh">江苏教育新闻</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505122000 +0800" stop="20250505134000 +0800">
+	<programme channel="江苏教育" start="20250505061500 +0800" stop="20250505063800 +0800">
 		<title lang="zh">重温经典</title>
 	</programme>
-	<programme channel="江苏教育" start="20250505134000 +0800" stop="20250505140000 +0800">
-		<title lang="zh">传承人</title>
+	<programme channel="江苏教育" start="20250505063800 +0800" stop="20250505073500 +0800">
+		<title lang="zh">一站到底</title>
 	</programme>
-	<programme channel="江苏教育" start="20250505140000 +0800" stop="20250505141500 +0800">
-		<title lang="zh">凡事讲礼</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505141500 +0800" stop="20250505150900 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505150900 +0800" stop="20250505161800 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505161800 +0800" stop="20250505171200 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505171200 +0800" stop="20250505172000 +0800">
-		<title lang="zh">百炼成钢</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505172000 +0800" stop="20250505172500 +0800">
-		<title lang="zh">微讲堂</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505172500 +0800" stop="20250505174000 +0800">
-		<title lang="zh">教育周刊</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505174000 +0800" stop="20250505180000 +0800">
-		<title lang="zh">未来科学家</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505180000 +0800" stop="20250505182300 +0800">
-		<title lang="zh">成长</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505182300 +0800" stop="20250505183100 +0800">
-		<title lang="zh">微讲堂</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505183100 +0800" stop="20250505191200 +0800">
+	<programme channel="江苏教育" start="20250505073500 +0800" stop="20250505083000 +0800">
 		<title lang="zh">勇者大冲关</title>
 	</programme>
-	<programme channel="江苏教育" start="20250505191200 +0800" stop="20250505191500 +0800">
-		<title lang="zh">看天气</title>
+	<programme channel="江苏教育" start="20250505083000 +0800" stop="20250505091700 +0800">
+		<title lang="zh">银龄</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505091700 +0800" stop="20250505100100 +0800">
+		<title lang="zh">生死连(11)</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505100100 +0800" stop="20250505104500 +0800">
+		<title lang="zh">生死连(12)</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505104500 +0800" stop="20250505113000 +0800">
+		<title lang="zh">生死连(13)</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505113000 +0800" stop="20250505121000 +0800">
+		<title lang="zh">银龄</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505121000 +0800" stop="20250505122100 +0800">
+		<title lang="zh">百炼成钢</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505122100 +0800" stop="20250505130000 +0800">
+		<title lang="zh">解密(44)</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505130000 +0800" stop="20250505133900 +0800">
+		<title lang="zh">解密(45)</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505133900 +0800" stop="20250505141400 +0800">
+		<title lang="zh">奇趣大自然</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505141400 +0800" stop="20250505145800 +0800">
+		<title lang="zh">我叫刘传说(33)</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505145800 +0800" stop="20250505154300 +0800">
+		<title lang="zh">我叫刘传说(34)</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505154300 +0800" stop="20250505162700 +0800">
+		<title lang="zh">我叫刘传说(35)</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505162700 +0800" stop="20250505171200 +0800">
+		<title lang="zh">我叫刘传说(36)</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505171200 +0800" stop="20250505174000 +0800">
+		<title lang="zh">银龄</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505174000 +0800" stop="20250505180000 +0800">
+		<title lang="zh">成长</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505180000 +0800" stop="20250505182500 +0800">
+		<title lang="zh">未来科学家</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505182500 +0800" stop="20250505183500 +0800">
+		<title lang="zh">微讲堂</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505183500 +0800" stop="20250505191500 +0800">
+		<title lang="zh">勇者大冲关</title>
 	</programme>
 	<programme channel="江苏教育" start="20250505191500 +0800" stop="20250505193000 +0800">
-		<title lang="zh">凡事讲礼</title>
+		<title lang="zh">无声的功勋</title>
 	</programme>
 	<programme channel="江苏教育" start="20250505193000 +0800" stop="20250505195000 +0800">
 		<title lang="zh">江苏教育新闻</title>
 	</programme>
-	<programme channel="江苏教育" start="20250505195000 +0800" stop="20250505202000 +0800">
-		<title lang="zh">奇趣大自然</title>
+	<programme channel="江苏教育" start="20250505195000 +0800" stop="20250505204300 +0800">
+		<title lang="zh">优秀文化节目展播</title>
 	</programme>
-	<programme channel="江苏教育" start="20250505202000 +0800" stop="20250505204500 +0800">
+	<programme channel="江苏教育" start="20250505204300 +0800" stop="20250505205800 +0800">
+		<title lang="zh">无声的功勋</title>
+	</programme>
+	<programme channel="江苏教育" start="20250505205800 +0800" stop="20250505212100 +0800">
 		<title lang="zh">未来科学家</title>
 	</programme>
-	<programme channel="江苏教育" start="20250505204500 +0800" stop="20250505210000 +0800">
-		<title lang="zh">剧场</title>
+	<programme channel="江苏教育" start="20250505212100 +0800" stop="20250505220100 +0800">
+		<title lang="zh">解密(46)</title>
 	</programme>
-	<programme channel="江苏教育" start="20250505210000 +0800" stop="20250505212000 +0800">
-		<title lang="zh">传承人</title>
+	<programme channel="江苏教育" start="20250505220100 +0800" stop="20250505224200 +0800">
+		<title lang="zh">解密(47)</title>
 	</programme>
-	<programme channel="江苏教育" start="20250505212000 +0800" stop="20250505224000 +0800">
-		<title lang="zh">重温经典</title>
-	</programme>
-	<programme channel="江苏教育" start="20250505224000 +0800" stop="20250505235959 +0800">
+	<programme channel="江苏教育" start="20250505224200 +0800" stop="20250505235959 +0800">
 		<title lang="zh">一站到底</title>
 	</programme>
 	<channel id="江苏影视">
 		<display-name lang="zh">江苏影视</display-name>
 	</channel>
-	<programme channel="江苏影视" start="20250505000000 +0800" stop="20250505003000 +0800">
-		<title lang="zh">星影院</title>
+	<programme channel="江苏影视" start="20250505000000 +0800" stop="20250505002000 +0800">
+		<title lang="zh">幸福一家人Ⅱ(10)</title>
 	</programme>
-	<programme channel="江苏影视" start="20250505003000 +0800" stop="20250505090000 +0800">
-		<title lang="zh">真情剧场</title>
+	<programme channel="江苏影视" start="20250505002000 +0800" stop="20250505012000 +0800">
+		<title lang="zh">打开生活的正确方式(18)</title>
 	</programme>
-	<programme channel="江苏影视" start="20250505090000 +0800" stop="20250505140000 +0800">
-		<title lang="zh">青春剧场</title>
+	<programme channel="江苏影视" start="20250505012000 +0800" stop="20250505022000 +0800">
+		<title lang="zh">打开生活的正确方式(19)</title>
 	</programme>
-	<programme channel="江苏影视" start="20250505140000 +0800" stop="20250505190000 +0800">
-		<title lang="zh">英雄剧场</title>
+	<programme channel="江苏影视" start="20250505022000 +0800" stop="20250505031500 +0800">
+		<title lang="zh">打开生活的正确方式(20)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505031500 +0800" stop="20250505041500 +0800">
+		<title lang="zh">打开生活的正确方式(21)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505041500 +0800" stop="20250505051500 +0800">
+		<title lang="zh">打开生活的正确方式(22)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505051500 +0800" stop="20250505062000 +0800">
+		<title lang="zh">打开生活的正确方式(23)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505062000 +0800" stop="20250505070200 +0800">
+		<title lang="zh">打开生活的正确方式(24)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505070200 +0800" stop="20250505080000 +0800">
+		<title lang="zh">打开生活的正确方式(25)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505080000 +0800" stop="20250505084500 +0800">
+		<title lang="zh">养生吧</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505084500 +0800" stop="20250505100000 +0800">
+		<title lang="zh">门当户对</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505100000 +0800" stop="20250505104500 +0800">
+		<title lang="zh">养生吧</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505104500 +0800" stop="20250505113000 +0800">
+		<title lang="zh">剧有戏</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505113000 +0800" stop="20250505124000 +0800">
+		<title lang="zh">门当户对</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505124000 +0800" stop="20250505132500 +0800">
+		<title lang="zh">谍战深海之惊蛰</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505132500 +0800" stop="20250505140000 +0800">
+		<title lang="zh">谍战深海之惊蛰</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505140000 +0800" stop="20250505144500 +0800">
+		<title lang="zh">养生吧</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505144500 +0800" stop="20250505152800 +0800">
+		<title lang="zh">警察荣誉</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505152800 +0800" stop="20250505155000 +0800">
+		<title lang="zh">警察荣誉</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505155000 +0800" stop="20250505163200 +0800">
+		<title lang="zh">养生吧</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505163200 +0800" stop="20250505171700 +0800">
+		<title lang="zh">警察荣誉</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505171700 +0800" stop="20250505180200 +0800">
+		<title lang="zh">警察荣誉</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505180200 +0800" stop="20250505190000 +0800">
+		<title lang="zh">门当户对</title>
 	</programme>
 	<programme channel="江苏影视" start="20250505190000 +0800" stop="20250505191000 +0800">
-		<title lang="zh">荔枝小剧场</title>
+		<title lang="zh">荔枝微剧场</title>
 	</programme>
-	<programme channel="江苏影视" start="20250505191000 +0800" stop="20250505210000 +0800">
-		<title lang="zh">家庭剧场</title>
+	<programme channel="江苏影视" start="20250505191000 +0800" stop="20250505194500 +0800">
+		<title lang="zh">亲爱的自己</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505194500 +0800" stop="20250505202500 +0800">
+		<title lang="zh">亲爱的自己</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505202500 +0800" stop="20250505210000 +0800">
+		<title lang="zh">亲爱的自己</title>
 	</programme>
 	<programme channel="江苏影视" start="20250505210000 +0800" stop="20250505215000 +0800">
 		<title lang="zh">剧说那些事儿</title>
 	</programme>
-	<programme channel="江苏影视" start="20250505215000 +0800" stop="20250505235959 +0800">
-		<title lang="zh">星影院</title>
+	<programme channel="江苏影视" start="20250505215000 +0800" stop="20250505231000 +0800">
+		<title lang="zh">幸福一家人Ⅱ(11)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250505231000 +0800" stop="20250505235959 +0800">
+		<title lang="zh">幸福一家人Ⅱ(12)</title>
 	</programme>
 	<channel id="山东教育">
 		<display-name lang="zh">山东教育</display-name>
@@ -16788,14 +16821,185 @@
 	<channel id="安徽经济生活">
 		<display-name lang="zh">安徽经济生活</display-name>
 	</channel>
-	<programme channel="安徽经济生活" start="20250505000000 +0800" stop="20250505235959 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="安徽经济生活" start="20250505000000 +0800" stop="20250505001200 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505001200 +0800" stop="20250505004100 +0800">
+		<title lang="zh">第1时间</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505004100 +0800" stop="20250505005300 +0800">
+		<title lang="zh">此时此刻的安徽</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505005300 +0800" stop="20250505051500 +0800">
+		<title lang="zh">再见</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505051500 +0800" stop="20250505053000 +0800">
+		<title lang="zh">电视台无节目</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505053000 +0800" stop="20250505061100 +0800">
+		<title lang="zh">帮女郎帮你忙</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505061100 +0800" stop="20250505071800 +0800">
+		<title lang="zh">第1时间</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505071800 +0800" stop="20250505072600 +0800">
+		<title lang="zh">此时此刻的安徽</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505072600 +0800" stop="20250505081100 +0800">
+		<title lang="zh">生活剧场</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505081100 +0800" stop="20250505083800 +0800">
+		<title lang="zh">健康行天下</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505083800 +0800" stop="20250505092100 +0800">
+		<title lang="zh">生活剧场</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505092100 +0800" stop="20250505100400 +0800">
+		<title lang="zh">生活剧场</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505100400 +0800" stop="20250505104600 +0800">
+		<title lang="zh">生活剧场</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505104600 +0800" stop="20250505113000 +0800">
+		<title lang="zh">生活剧场</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505113000 +0800" stop="20250505114000 +0800">
+		<title lang="zh">生活剧场</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505114000 +0800" stop="20250505122000 +0800">
+		<title lang="zh">帮女郎帮你忙</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505122000 +0800" stop="20250505130400 +0800">
+		<title lang="zh">生活剧场</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505130400 +0800" stop="20250505135000 +0800">
+		<title lang="zh">生活剧场</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505135000 +0800" stop="20250505143400 +0800">
+		<title lang="zh">生活剧场</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505143400 +0800" stop="20250505151900 +0800">
+		<title lang="zh">生活剧场</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505151900 +0800" stop="20250505160200 +0800">
+		<title lang="zh">生活剧场</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505160200 +0800" stop="20250505164300 +0800">
+		<title lang="zh">生活剧场</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505164300 +0800" stop="20250505171000 +0800">
+		<title lang="zh">生活剧场</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505171000 +0800" stop="20250505173500 +0800">
+		<title lang="zh">健康行天下</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505173500 +0800" stop="20250505181900 +0800">
+		<title lang="zh">帮女郎帮你忙</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505181900 +0800" stop="20250505192600 +0800">
+		<title lang="zh">第1时间</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505192600 +0800" stop="20250505194000 +0800">
+		<title lang="zh">此时此刻的安徽</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505194000 +0800" stop="20250505201100 +0800">
+		<title lang="zh">直播安徽</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505201100 +0800" stop="20250505205600 +0800">
+		<title lang="zh">钻石剧场</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505205600 +0800" stop="20250505214200 +0800">
+		<title lang="zh">钻石剧场</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505214200 +0800" stop="20250505220000 +0800">
+		<title lang="zh">钻石剧场</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505220000 +0800" stop="20250505222400 +0800">
+		<title lang="zh">医道健康</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505222400 +0800" stop="20250505230800 +0800">
+		<title lang="zh">帮女郎帮你忙</title>
+	</programme>
+	<programme channel="安徽经济生活" start="20250505230800 +0800" stop="20250505235959 +0800">
+		<title lang="zh">健康行天下</title>
 	</programme>
 	<channel id="安徽影视">
 		<display-name lang="zh">安徽影视</display-name>
 	</channel>
-	<programme channel="安徽影视" start="20250505000000 +0800" stop="20250505235959 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="安徽影视" start="20250505000000 +0800" stop="20250505001000 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505001000 +0800" stop="20250505055500 +0800">
+		<title lang="zh">公益宣传片</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505055500 +0800" stop="20250505062700 +0800">
+		<title lang="zh">公益宣传片</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505062700 +0800" stop="20250505063800 +0800">
+		<title lang="zh">忠者无敌(18)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505063800 +0800" stop="20250505071400 +0800">
+		<title lang="zh">忠者无敌(19)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505071400 +0800" stop="20250505075700 +0800">
+		<title lang="zh">忠者无敌(20)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505075700 +0800" stop="20250505083900 +0800">
+		<title lang="zh">忠者无敌(21)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505083900 +0800" stop="20250505092100 +0800">
+		<title lang="zh">忠者无敌(22)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505092100 +0800" stop="20250505103200 +0800">
+		<title lang="zh">忠者无敌(23)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505103200 +0800" stop="20250505115300 +0800">
+		<title lang="zh">忠者无敌(24)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505115300 +0800" stop="20250505130100 +0800">
+		<title lang="zh">忠者无敌(25)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505130100 +0800" stop="20250505140300 +0800">
+		<title lang="zh">忠者无敌(26)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505140300 +0800" stop="20250505152300 +0800">
+		<title lang="zh">忠者无敌(27)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505152300 +0800" stop="20250505163200 +0800">
+		<title lang="zh">忠者无敌(28)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505163200 +0800" stop="20250505172400 +0800">
+		<title lang="zh">忠者无敌(29)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505172400 +0800" stop="20250505184000 +0800">
+		<title lang="zh">刀光枪影(38)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505184000 +0800" stop="20250505185000 +0800">
+		<title lang="zh">影视第一线(1437)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505185000 +0800" stop="20250505193700 +0800">
+		<title lang="zh">风云大剧院刀光枪影(39)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505193700 +0800" stop="20250505202000 +0800">
+		<title lang="zh">风云大剧院刀光枪影(40)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505202000 +0800" stop="20250505211500 +0800">
+		<title lang="zh">风云大剧院刀光枪影(41)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505211500 +0800" stop="20250505222100 +0800">
+		<title lang="zh">风云大剧院刀光枪影(42)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505222100 +0800" stop="20250505223300 +0800">
+		<title lang="zh">妻子的秘密世界(21)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505223300 +0800" stop="20250505224500 +0800">
+		<title lang="zh">妻子的秘密世界(22)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505224500 +0800" stop="20250505230700 +0800">
+		<title lang="zh">妻子的秘密世界(23)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250505230700 +0800" stop="20250505235959 +0800">
+		<title lang="zh">利箭纵横(25)</title>
 	</programme>
 	<channel id="安徽综艺体育">
 		<display-name lang="zh">安徽综艺体育</display-name>
@@ -24081,6 +24285,66 @@
 	<channel id="苏州社会经济">
 		<display-name lang="zh">苏州社会经济</display-name>
 	</channel>
+	<programme channel="苏州社会经济" start="20250505000000 +0800" stop="20250505001800 +0800">
+		<title lang="zh">谈天说地</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505001800 +0800" stop="20250505061200 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505061200 +0800" stop="20250505071500 +0800">
+		<title lang="zh">寰宇地理</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505071500 +0800" stop="20250505074600 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505074600 +0800" stop="20250505082500 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505082500 +0800" stop="20250505111500 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505111500 +0800" stop="20250505120000 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505120000 +0800" stop="20250505130500 +0800">
+		<title lang="zh">社会传真</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505130500 +0800" stop="20250505141000 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505141000 +0800" stop="20250505174300 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505174300 +0800" stop="20250505180000 +0800">
+		<title lang="zh">健康黄丝带</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505180000 +0800" stop="20250505183000 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505183000 +0800" stop="20250505193000 +0800">
+		<title lang="zh">社会传真</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505193000 +0800" stop="20250505194300 +0800">
+		<title lang="zh">谈天说地</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505194300 +0800" stop="20250505220000 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505220000 +0800" stop="20250505224100 +0800">
+		<title lang="zh">施斌聊斋</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505224100 +0800" stop="20250505230100 +0800">
+		<title lang="zh">海棠花红</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505230100 +0800" stop="20250505233600 +0800">
+		<title lang="zh">传真聚焦</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505233600 +0800" stop="20250505235100 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州社会经济" start="20250505235100 +0800" stop="20250505235959 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
 	<channel id="苏州文化生活">
 		<display-name lang="zh">苏州文化生活</display-name>
 	</channel>
