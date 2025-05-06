@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-06 02:05:24,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
+2025-05-06 18:09:50,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视频道,#genre#
 CCTV1,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
@@ -510,7 +510,9 @@ CETV4,http://iptv.huuc.edu.cn/hls/cetv4.m3u8
 广州综合,https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1745735589&key=91e8032c4bff3a17903bd22eae424b51
 广州综合,https://live.iill.top/gztv/zhonghe
 广州综合,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p10.php?id=zhonghe
+广州综合,https://tv.iill.top/gztv/zhonghe
 广州影视,https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1745735589&key=de80299a2f4afac6d69dd703d676ec6e
+广州影视,https://tv.iill.top/gztv/yingshi
 广州竞赛,https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1745735589&key=cb1a4cc450a296cbc6e23631432d2f2a
 江门综合,http://dslive.grtn.cn/jmzh/sd/live.m3u8
 佛山综合,http://dslive.grtn.cn/fszh/sd/live.m3u8

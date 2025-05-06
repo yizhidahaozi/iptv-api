@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250505180523 +0800">
+<tv date="20250506100949 +0800">
 	<channel id="浙江卫视">
 		<display-name lang="zh">浙江卫视</display-name>
 	</channel>
@@ -15402,140 +15402,83 @@
 	<channel id="江苏城市">
 		<display-name lang="zh">江苏城市</display-name>
 	</channel>
-	<programme channel="江苏城市" start="20250506000000 +0800" stop="20250506001900 +0800">
-		<title lang="zh">城市梦想家</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506001900 +0800" stop="20250506005400 +0800">
-		<title lang="zh">美好时代</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506005400 +0800" stop="20250506011900 +0800">
-		<title lang="zh">纪录片</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506011900 +0800" stop="20250506022100 +0800">
-		<title lang="zh">纪录片</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506022100 +0800" stop="20250506030000 +0800">
-		<title lang="zh">纪录片</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506030000 +0800" stop="20250506040400 +0800">
-		<title lang="zh">纪录片</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506040400 +0800" stop="20250506045600 +0800">
-		<title lang="zh">纪录片</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506045600 +0800" stop="20250506045700 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506045700 +0800" stop="20250506050800 +0800">
-		<title lang="zh">纪录片</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506050800 +0800" stop="20250506064700 +0800">
-		<title lang="zh">约见名医</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506064700 +0800" stop="20250506065000 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506065000 +0800" stop="20250506073800 +0800">
-		<title lang="zh">零距离</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506073800 +0800" stop="20250506073900 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506073900 +0800" stop="20250506075500 +0800">
-		<title lang="zh">零距离</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506075500 +0800" stop="20250506085400 +0800">
-		<title lang="zh">明理说法</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506085400 +0800" stop="20250506090000 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506090000 +0800" stop="20250506095300 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506095300 +0800" stop="20250506095900 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506095900 +0800" stop="20250506105500 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506105500 +0800" stop="20250506114800 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506114800 +0800" stop="20250506121400 +0800">
-		<title lang="zh">城市梦想家</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506121400 +0800" stop="20250506121900 +0800">
-		<title lang="zh">纪录片</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506121900 +0800" stop="20250506122700 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506122700 +0800" stop="20250506131100 +0800">
+	<programme channel="江苏城市" start="20250506000000 +0800" stop="20250506002500 +0800">
 		<title lang="zh">人间真情</title>
 	</programme>
-	<programme channel="江苏城市" start="20250506131100 +0800" stop="20250506133700 +0800">
+	<programme channel="江苏城市" start="20250506002500 +0800" stop="20250506003300 +0800">
+		<title lang="zh">百炼成钢</title>
+	</programme>
+	<programme channel="江苏城市" start="20250506003300 +0800" stop="20250506003800 +0800">
+		<title lang="zh">江南文脉</title>
+	</programme>
+	<programme channel="江苏城市" start="20250506003800 +0800" stop="20250506012300 +0800">
+		<title lang="zh">美好时代</title>
+	</programme>
+	<programme channel="江苏城市" start="20250506012300 +0800" stop="20250506045800 +0800">
+		<title lang="zh">人间真情</title>
+	</programme>
+	<programme channel="江苏城市" start="20250506045800 +0800" stop="20250506065700 +0800">
 		<title lang="zh">约见名医</title>
 	</programme>
-	<programme channel="江苏城市" start="20250506133700 +0800" stop="20250506134300 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506134300 +0800" stop="20250506141900 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506141900 +0800" stop="20250506145900 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506145900 +0800" stop="20250506152000 +0800">
-		<title lang="zh">城市梦想家</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506152000 +0800" stop="20250506161400 +0800">
-		<title lang="zh">纪录片</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506161400 +0800" stop="20250506164600 +0800">
-		<title lang="zh">纪录片</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506164600 +0800" stop="20250506173500 +0800">
-		<title lang="zh">约见名医</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506173500 +0800" stop="20250506174900 +0800">
-		<title lang="zh">明理说法</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506174900 +0800" stop="20250506180800 +0800">
-		<title lang="zh">新城市资讯</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506180800 +0800" stop="20250506182800 +0800">
-		<title lang="zh">食色生香</title>
-	</programme>
-	<programme channel="江苏城市" start="20250506182800 +0800" stop="20250506193900 +0800">
+	<programme channel="江苏城市" start="20250506065700 +0800" stop="20250506080000 +0800">
 		<title lang="zh">零距离</title>
 	</programme>
-	<programme channel="江苏城市" start="20250506193900 +0800" stop="20250506195600 +0800">
-		<title lang="zh">明理说法</title>
+	<programme channel="江苏城市" start="20250506080000 +0800" stop="20250506083100 +0800">
+		<title lang="zh">老开心啦</title>
 	</programme>
-	<programme channel="江苏城市" start="20250506195600 +0800" stop="20250506202500 +0800">
+	<programme channel="江苏城市" start="20250506083100 +0800" stop="20250506091400 +0800">
+		<title lang="zh">养生吧</title>
+	</programme>
+	<programme channel="江苏城市" start="20250506091400 +0800" stop="20250506123000 +0800">
+		<title lang="zh">新城市客厅</title>
+	</programme>
+	<programme channel="江苏城市" start="20250506123000 +0800" stop="20250506124300 +0800">
+		<title lang="zh">剧情抢先看</title>
+	</programme>
+	<programme channel="江苏城市" start="20250506124300 +0800" stop="20250506134700 +0800">
+		<title lang="zh">零距离</title>
+	</programme>
+	<programme channel="江苏城市" start="20250506134700 +0800" stop="20250506140100 +0800">
+		<title lang="zh">城市梦想家</title>
+	</programme>
+	<programme channel="江苏城市" start="20250506140100 +0800" stop="20250506144100 +0800">
+		<title lang="zh">养生吧</title>
+	</programme>
+	<programme channel="江苏城市" start="20250506144100 +0800" stop="20250506162900 +0800">
+		<title lang="zh">新城市客厅</title>
+	</programme>
+	<programme channel="江苏城市" start="20250506162900 +0800" stop="20250506171200 +0800">
+		<title lang="zh">养生吧</title>
+	</programme>
+	<programme channel="江苏城市" start="20250506171200 +0800" stop="20250506180000 +0800">
 		<title lang="zh">约见名医</title>
 	</programme>
-	<programme channel="江苏城市" start="20250506202500 +0800" stop="20250506204700 +0800">
-		<title lang="zh">食色生香</title>
+	<programme channel="江苏城市" start="20250506180000 +0800" stop="20250506183000 +0800">
+		<title lang="zh">新城市资讯食色生香</title>
 	</programme>
-	<programme channel="江苏城市" start="20250506204700 +0800" stop="20250506205200 +0800">
-		<title lang="zh">天气预报</title>
+	<programme channel="江苏城市" start="20250506183000 +0800" stop="20250506193000 +0800">
+		<title lang="zh">零距离</title>
 	</programme>
-	<programme channel="江苏城市" start="20250506205200 +0800" stop="20250506214000 +0800">
-		<title lang="zh">城市第一剧场</title>
+	<programme channel="江苏城市" start="20250506193000 +0800" stop="20250506200000 +0800">
+		<title lang="zh">老开心啦</title>
 	</programme>
-	<programme channel="江苏城市" start="20250506214000 +0800" stop="20250506214500 +0800">
-		<title lang="zh">天气预报</title>
+	<programme channel="江苏城市" start="20250506200000 +0800" stop="20250506203800 +0800">
+		<title lang="zh">江苏最美人物</title>
 	</programme>
-	<programme channel="江苏城市" start="20250506214500 +0800" stop="20250506222900 +0800">
-		<title lang="zh">城市第一剧场</title>
+	<programme channel="江苏城市" start="20250506203800 +0800" stop="20250506205500 +0800">
+		<title lang="zh">明理说法</title>
 	</programme>
-	<programme channel="江苏城市" start="20250506222900 +0800" stop="20250506224500 +0800">
-		<title lang="zh">天气预报</title>
+	<programme channel="江苏城市" start="20250506205500 +0800" stop="20250506214500 +0800">
+		<title lang="zh">北上(1)</title>
 	</programme>
-	<programme channel="江苏城市" start="20250506224500 +0800" stop="20250506235959 +0800">
+	<programme channel="江苏城市" start="20250506214500 +0800" stop="20250506225400 +0800">
+		<title lang="zh">北上(2)</title>
+	</programme>
+	<programme channel="江苏城市" start="20250506225400 +0800" stop="20250506231500 +0800">
 		<title lang="zh">城市梦想家</title>
+	</programme>
+	<programme channel="江苏城市" start="20250506231500 +0800" stop="20250506235959 +0800">
+		<title lang="zh">人间真情</title>
 	</programme>
 	<channel id="江苏教育">
 		<display-name lang="zh">江苏教育</display-name>
@@ -15693,29 +15636,95 @@
 	<channel id="江苏影视">
 		<display-name lang="zh">江苏影视</display-name>
 	</channel>
-	<programme channel="江苏影视" start="20250506000000 +0800" stop="20250506003000 +0800">
-		<title lang="zh">星影院</title>
+	<programme channel="江苏影视" start="20250506000000 +0800" stop="20250506002000 +0800">
+		<title lang="zh">幸福一家人Ⅱ(12)</title>
 	</programme>
-	<programme channel="江苏影视" start="20250506003000 +0800" stop="20250506090000 +0800">
-		<title lang="zh">真情剧场</title>
+	<programme channel="江苏影视" start="20250506002000 +0800" stop="20250506012000 +0800">
+		<title lang="zh">打开生活的正确方式(26)</title>
 	</programme>
-	<programme channel="江苏影视" start="20250506090000 +0800" stop="20250506140000 +0800">
-		<title lang="zh">青春剧场</title>
+	<programme channel="江苏影视" start="20250506012000 +0800" stop="20250506022000 +0800">
+		<title lang="zh">打开生活的正确方式(27)</title>
 	</programme>
-	<programme channel="江苏影视" start="20250506140000 +0800" stop="20250506190000 +0800">
-		<title lang="zh">英雄剧场</title>
+	<programme channel="江苏影视" start="20250506022000 +0800" stop="20250506031500 +0800">
+		<title lang="zh">打开生活的正确方式(28)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506031500 +0800" stop="20250506041500 +0800">
+		<title lang="zh">打开生活的正确方式(29)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506041500 +0800" stop="20250506051500 +0800">
+		<title lang="zh">打开生活的正确方式(30)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506051500 +0800" stop="20250506062000 +0800">
+		<title lang="zh">打开生活的正确方式(31)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506062000 +0800" stop="20250506070200 +0800">
+		<title lang="zh">打开生活的正确方式(32)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506070200 +0800" stop="20250506080000 +0800">
+		<title lang="zh">打开生活的正确方式(33)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506080000 +0800" stop="20250506084500 +0800">
+		<title lang="zh">养生吧</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506084500 +0800" stop="20250506100000 +0800">
+		<title lang="zh">门当户对</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506100000 +0800" stop="20250506104500 +0800">
+		<title lang="zh">养生吧</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506104500 +0800" stop="20250506113000 +0800">
+		<title lang="zh">剧有戏</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506113000 +0800" stop="20250506124000 +0800">
+		<title lang="zh">门当户对</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506124000 +0800" stop="20250506132500 +0800">
+		<title lang="zh">警察荣誉</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506132500 +0800" stop="20250506140000 +0800">
+		<title lang="zh">警察荣誉</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506140000 +0800" stop="20250506144500 +0800">
+		<title lang="zh">养生吧</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506144500 +0800" stop="20250506152800 +0800">
+		<title lang="zh">警察荣誉</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506152800 +0800" stop="20250506155000 +0800">
+		<title lang="zh">警察荣誉</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506155000 +0800" stop="20250506163200 +0800">
+		<title lang="zh">养生吧</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506163200 +0800" stop="20250506171700 +0800">
+		<title lang="zh">警察荣誉</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506171700 +0800" stop="20250506180200 +0800">
+		<title lang="zh">警察荣誉</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506180200 +0800" stop="20250506190000 +0800">
+		<title lang="zh">门当户对</title>
 	</programme>
 	<programme channel="江苏影视" start="20250506190000 +0800" stop="20250506191000 +0800">
-		<title lang="zh">荔枝小剧场</title>
+		<title lang="zh">荔枝微剧场</title>
 	</programme>
-	<programme channel="江苏影视" start="20250506191000 +0800" stop="20250506210000 +0800">
-		<title lang="zh">家庭剧场</title>
+	<programme channel="江苏影视" start="20250506191000 +0800" stop="20250506194500 +0800">
+		<title lang="zh">亲爱的自己</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506194500 +0800" stop="20250506202500 +0800">
+		<title lang="zh">亲爱的自己</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506202500 +0800" stop="20250506210000 +0800">
+		<title lang="zh">亲爱的自己</title>
 	</programme>
 	<programme channel="江苏影视" start="20250506210000 +0800" stop="20250506215000 +0800">
 		<title lang="zh">剧说那些事儿</title>
 	</programme>
-	<programme channel="江苏影视" start="20250506215000 +0800" stop="20250506235959 +0800">
-		<title lang="zh">星影院</title>
+	<programme channel="江苏影视" start="20250506215000 +0800" stop="20250506231000 +0800">
+		<title lang="zh">幸福一家人Ⅱ(13)</title>
+	</programme>
+	<programme channel="江苏影视" start="20250506231000 +0800" stop="20250506235959 +0800">
+		<title lang="zh">幸福一家人Ⅱ(14)</title>
 	</programme>
 	<channel id="山东教育">
 		<display-name lang="zh">山东教育</display-name>
@@ -16281,8 +16290,83 @@
 	<channel id="安徽影视">
 		<display-name lang="zh">安徽影视</display-name>
 	</channel>
-	<programme channel="安徽影视" start="20250506000000 +0800" stop="20250506235959 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="安徽影视" start="20250506000000 +0800" stop="20250506001000 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506001000 +0800" stop="20250506055500 +0800">
+		<title lang="zh">公益宣传片</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506055500 +0800" stop="20250506062700 +0800">
+		<title lang="zh">公益宣传片</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506062700 +0800" stop="20250506063800 +0800">
+		<title lang="zh">忠者无敌(25)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506063800 +0800" stop="20250506071400 +0800">
+		<title lang="zh">忠者无敌(26)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506071400 +0800" stop="20250506075700 +0800">
+		<title lang="zh">忠者无敌(27)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506075700 +0800" stop="20250506083900 +0800">
+		<title lang="zh">忠者无敌(28)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506083900 +0800" stop="20250506092100 +0800">
+		<title lang="zh">忠者无敌(29)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506092100 +0800" stop="20250506103200 +0800">
+		<title lang="zh">忠者无敌(30)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506103200 +0800" stop="20250506113300 +0800">
+		<title lang="zh">忠者无敌(31)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506113300 +0800" stop="20250506115300 +0800">
+		<title lang="zh">影视第一线(1437)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506115300 +0800" stop="20250506130100 +0800">
+		<title lang="zh">忠者无敌(32)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506130100 +0800" stop="20250506140300 +0800">
+		<title lang="zh">忠者无敌(33)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506140300 +0800" stop="20250506152300 +0800">
+		<title lang="zh">忠者无敌(34)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506152300 +0800" stop="20250506163200 +0800">
+		<title lang="zh">忠者无敌(35)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506163200 +0800" stop="20250506172400 +0800">
+		<title lang="zh">忠者无敌(36)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506172400 +0800" stop="20250506184000 +0800">
+		<title lang="zh">刀光枪影(41)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506184000 +0800" stop="20250506185000 +0800">
+		<title lang="zh">阅读第一线(228)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506185000 +0800" stop="20250506193700 +0800">
+		<title lang="zh">风云大剧院刀光枪影(42)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506193700 +0800" stop="20250506202000 +0800">
+		<title lang="zh">风云大剧院刀光枪影(43)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506202000 +0800" stop="20250506211500 +0800">
+		<title lang="zh">风云大剧院刀光枪影(44)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506211500 +0800" stop="20250506222100 +0800">
+		<title lang="zh">风云大剧院刀光枪影(45)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506222100 +0800" stop="20250506223300 +0800">
+		<title lang="zh">妻子的秘密世界(23)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506223300 +0800" stop="20250506224500 +0800">
+		<title lang="zh">妻子的秘密世界(24)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506224500 +0800" stop="20250506230700 +0800">
+		<title lang="zh">妻子的秘密世界(25)</title>
+	</programme>
+	<programme channel="安徽影视" start="20250506230700 +0800" stop="20250506235959 +0800">
+		<title lang="zh">利箭纵横(27)</title>
 	</programme>
 	<channel id="安徽综艺体育">
 		<display-name lang="zh">安徽综艺体育</display-name>
@@ -23481,6 +23565,72 @@
 	<channel id="苏州新闻综合">
 		<display-name lang="zh">苏州新闻综合</display-name>
 	</channel>
+	<programme channel="苏州新闻综合" start="20250506000000 +0800" stop="20250506070000 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506070000 +0800" stop="20250506074500 +0800">
+		<title lang="zh">苏州新闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506074500 +0800" stop="20250506104000 +0800">
+		<title lang="zh">阳光剧场许你万家灯火（3032）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506104000 +0800" stop="20250506110000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506110000 +0800" stop="20250506115000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506115000 +0800" stop="20250506125000 +0800">
+		<title lang="zh">风云剧场城中之城（40）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506125000 +0800" stop="20250506154000 +0800">
+		<title lang="zh">尖锋之烈焰青春（13）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506154000 +0800" stop="20250506161000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506161000 +0800" stop="20250506163000 +0800">
+		<title lang="zh">世界大观</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506163000 +0800" stop="20250506172500 +0800">
+		<title lang="zh">苏州电视书场长篇弹词真假太子（9）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506172500 +0800" stop="20250506180000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506180000 +0800" stop="20250506183000 +0800">
+		<title lang="zh">乐活六点档</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506183000 +0800" stop="20250506190000 +0800">
+		<title lang="zh">苏州新闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506190000 +0800" stop="20250506193000 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506193000 +0800" stop="20250506202000 +0800">
+		<title lang="zh">苏城议事厅</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506202000 +0800" stop="20250506211000 +0800">
+		<title lang="zh">洪湖英雄传（5）</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506211000 +0800" stop="20250506215000 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506215000 +0800" stop="20250506222000 +0800">
+		<title lang="zh">苏州要闻</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506222000 +0800" stop="20250506225000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506225000 +0800" stop="20250506231000 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506231000 +0800" stop="20250506235500 +0800">
+		<title lang="zh">纪录发现</title>
+	</programme>
+	<programme channel="苏州新闻综合" start="20250506235500 +0800" stop="20250506235959 +0800">
+		<title lang="zh">星梦剧场爱人同志（4650）</title>
+	</programme>
 	<channel id="苏州社会经济">
 		<display-name lang="zh">苏州社会经济</display-name>
 	</channel>
@@ -23547,9 +23697,99 @@
 	<channel id="苏州文化生活">
 		<display-name lang="zh">苏州文化生活</display-name>
 	</channel>
+	<programme channel="苏州文化生活" start="20250506000000 +0800" stop="20250506062000 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250506062000 +0800" stop="20250506081000 +0800">
+		<title lang="zh">魅力剧场南来北往（1112）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250506081000 +0800" stop="20250506105100 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250506105100 +0800" stop="20250506134500 +0800">
+		<title lang="zh">情感剧场珠江人家（911）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250506134500 +0800" stop="20250506154000 +0800">
+		<title lang="zh">生活剧场爱拼会赢（3435）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250506154000 +0800" stop="20250506180000 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250506180000 +0800" stop="20250506183000 +0800">
+		<title lang="zh">教育节目</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250506183000 +0800" stop="20250506201000 +0800">
+		<title lang="zh">五星剧场大盛魁（3334）</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250506201000 +0800" stop="20250506222500 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250506222500 +0800" stop="20250506224000 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250506224000 +0800" stop="20250506225800 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250506225800 +0800" stop="20250506231800 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250506231800 +0800" stop="20250506234800 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20250506234800 +0800" stop="20250506235959 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
 	<channel id="苏州生活资讯">
 		<display-name lang="zh">苏州生活资讯</display-name>
 	</channel>
+	<programme channel="苏州生活资讯" start="20250506000000 +0800" stop="20250506070000 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250506070000 +0800" stop="20250506072000 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250506072000 +0800" stop="20250506113000 +0800">
+		<title lang="zh">早间剧场薄冰（2529）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250506113000 +0800" stop="20250506120000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250506120000 +0800" stop="20250506175000 +0800">
+		<title lang="zh">休闲剧场画眉（3238）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250506175000 +0800" stop="20250506183500 +0800">
+		<title lang="zh">苏州电视书场长篇弹词真假太子（9）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250506183500 +0800" stop="20250506185300 +0800">
+		<title lang="zh">食客准备</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250506185300 +0800" stop="20250506190800 +0800">
+		<title lang="zh">第一健康</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250506190800 +0800" stop="20250506193000 +0800">
+		<title lang="zh">今日相城</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250506193000 +0800" stop="20250506200000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250506200000 +0800" stop="20250506203000 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250506203000 +0800" stop="20250506210000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250506210000 +0800" stop="20250506212000 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250506212000 +0800" stop="20250506214000 +0800">
+		<title lang="zh">今日相城</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250506214000 +0800" stop="20250506231000 +0800">
+		<title lang="zh">青春剧场人生若如初相见（45）</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20250506231000 +0800" stop="20250506235959 +0800">
+		<title lang="zh">再见</title>
+	</programme>
 	<channel id="无锡新闻综合">
 		<display-name lang="zh">无锡新闻综合</display-name>
 	</channel>
