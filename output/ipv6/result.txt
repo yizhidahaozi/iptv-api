@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-08 02:00:46,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
+2025-05-08 18:04:41,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
 
 📺央视频道,#genre#
 CCTV1,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
@@ -487,6 +487,7 @@ CETV4,http://iptv.huuc.edu.cn/hls/cetv4.m3u8
 广东体育,https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
 广东体育,https://video.mytvsuper.xyz/live/907a6023e766d0bce76520d0ecfef51692200af2f26dd1bc454c4fbbcbea1f86.m3u8?token=825716213175186
 广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8
+广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东新闻,https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/Meroser.mp4
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
 广东卫视,http://j.x.bkpcp.top/jx/GUANGDHD
