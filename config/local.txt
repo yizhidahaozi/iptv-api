@@ -27,8 +27,6 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8$!
 CGTN法语,https://0472.org/hls/cgtnf.m3u8$!
 CGTN西语,https://0472.org/hls/cgtnx.m3u8$!
 CGTN阿语,https://0472.org/hls/cgtna.m3u8$!
-
-CCTV-1,http://218.13.14.6:60050/tsfile/live/1001_1.m3u8$!
 河北卫视,http://182.37.169.94:352/tsfile/live/0117_1.m3u8$!
 河北卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.105:5140$!
 
