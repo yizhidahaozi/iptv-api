@@ -20,7 +20,7 @@ CCTV12,http://39.164.180.36:19901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&
 CCTV13,http://39.164.180.36:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0$!
 CCTV14,http://39.164.180.36:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0$!
 
-CGTN,http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8$!
+
 CGTN英语,https://0472.org/hls/cgtn.m3u8$!
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8$!
 CGTN俄语,https://0472.org/hls/cgtne.m3u8$!
@@ -28,7 +28,7 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8$!
 CGTN西语,https://0472.org/hls/cgtnx.m3u8$!
 CGTN阿语,https://0472.org/hls/cgtna.m3u8$!
 河北卫视,http://182.37.169.94:352/tsfile/live/0117_1.m3u8$!
-河北卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.105:5140$!
+
 
 1983年春晚,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8$!
 1984年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8$!
@@ -73,7 +73,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8$!
 台视新闻,http://222.128.55.152:9080/live/ts.m3u8$!
 
 
-凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8$!
+
 
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8$!
 鳳凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8$!
