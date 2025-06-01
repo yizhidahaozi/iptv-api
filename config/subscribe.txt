@@ -1,9 +1,5 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-
-# 这是订阅源列表，每行一个订阅地址
-# This is a list of subscription sources, with one subscription address per line
-
 https://live.kilvn.com/iptv.m3u
 https://tv.iill.top/m3u/Gather
 https://tv.iill.top/m3u/Live
