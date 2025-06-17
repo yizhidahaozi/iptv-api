@@ -216,22 +216,155 @@ TVBS新闻台
 
 
 🌊俄罗斯,#genre#
+IGITV
+MMHoneyHD
+Енисей
+РБКТВ
+Тайна
+CMOREFIRSTHDSE
+КулинарТВ
+RUSSISCHERJAHRMARKT
+МТВ(Волгоград)
+Кино1International[768*432]
+KIONХитHD
+CineManPremium
+CineManThriller
+CineManКатастрофы
+CineManМелодрама
+CineManVHS
+CineManСваты
+CineManМентовскиевойны
+CineManЛесник
+CineManСимпсоны
+BCUКинозалPremiere1HD
+BCUКинозалPremiere2HD
+BCUPremiereHD
+BCUActionHD
+BCUCatastropheHD
+BCUCinemaHD
+BCUCinema+HD
+BCUHistoryHD
+BCUComedyHD
+BCUComedyOLD
+BCUCriminalHD
+BCUMediaHDOLD
+BCURealityOLD
+BCUCosmoHD
+BCURuSerialHD
+BOXCycleHD
+BOXGangsterHD
+BOXZombieHD
+KBC-History
+KBC-КриминальныйSerial
+KBC-B.O.B
+KBC-МиксUAHD
+VFБоевик
+VFDetective
+VFFantastic
+VFУжасы
+VFУжасыVHS
+VFArthouse
+VFSeries
+VFСериал
+VFГарриПоттер
+MMФантастикаHD
+MMУжасыHD
+PremiereHD
+Z!ChannelHD
+FreshFamily
+FreshRating
+FreshSeries
+FreshAdventure
+FreshSoviet
+EyeMediaHD
+EyeCriminalHD
+EyeHistoryHD
+EyeDriveHD
+MagicAdventureHD
+MagicLoveHD
+MagicKarateHD
+MagicVHSHD
+KinoshkaThrillerHD
+KinoshkaComedyHD
+ProkopTVCriminal
+Кинозал2
+Кинозал7
+Кинозал10
+Кинозал!VHSHD
+ФантастикаHD
+TOPCinemaHD
+TOPBUDOHD
+TOPВеликолепныйВекHD
+PZNHD
+MYTV
+zvezda
+2X2
+FreshFantastisHD
+FoodNetworkCEEHD
+Ukraine2HD
+nika
+gi
+Мир24
+Мир24
+Amedia1
+ЗвездаHD
+Матч!Страна
+МирHD
+EyeCyberHD
+KinoJam1
 
 🌊美国,#genre#
+AZ
+红牛 TV
+Bounce
+Grit
+JACKSON
+AXSTVNOW
 
 🌊日本,#genre#
+NTVNews24
+ShopChannel
+スターチャンネル 2
+フジテレビ
+釣りビジョン
+日本テレビ
+囲碁？将棋チャンネル
+Action
+FOX
+QVC
 
 🌊韩国,#genre#
+EBS2
+JTV
+KBCTV
+KBCTV
+KCTV
+KCTV
+TJBSBS
+TJBSBS
+MBC
+jobplus
+국방TV
+Arirang
+C
+CJMBC
+KBCSBS
 
 🌊朝鲜,#genre#
 
 🌊德国,#genre#
 
 🌊英国,#genre#
+2STV
+TFM
+RTS1
 
 🌊法国,#genre#
 
 🌊印度,#genre#
+ZEENEWS
+Nazara
+TV9BHARATVARSH
 
 🌊巴西,#genre#
 
@@ -257,12 +390,54 @@ TVBS新闻台
 
 
 🌊泰国,#genre#
+ATTV
+MediaTV
+MEDIANEWS
+SiamNews
+ETV
+1
+2
+CATRADIO
 
 🌊埃及,#genre#
 
 🌊越南,#genre#
+HoàBình
+NTVHD|THNgh?An
 
 🌊乌克兰,#genre#
+ICTV2
+NTA
+ОреліРешка+
+ВещдокHD+
+НТН
+2+2HD
+HollywoodHD
+Kinowood
+М1HD
+М2HD
+Flix&SnipHD
+UWN
+360TuneBox
+FashionTVHD
+NauticalChannelHD
+1+1HD
+ICTV
+SEA
+FashionTV
+1mus
+НАШЕMusic
+zoom
+IHTEP
+24news
+Терноп?ль1
+ГРОМАДСЬКЕ?НТЕРАКТИВНЕТЕЛЕБАЧЕННЯ(Луцьк)
+БалтаТВHD[1365*768]
+ТРКНад?я-НовийКанал(Первомайский)
+М2
+Relax
+ТРКНадия
+MagicVHSHD
 
 🌊立陶宛,#genre#
 
