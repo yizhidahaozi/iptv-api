@@ -1,3 +1,31 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
+http://tp88.cn/IPTV/fujian/pttv.php
+
+http://smart.tv.home.kg/smtv.php?id=cctv1
+http://8.138.7.223/tv/dl/careryun.php?id=1
+http://8.138.7.223/tv/dl/careryun.php?id=2
+http://8.138.7.223/tv/dl/careryun.php?id=3
+http://8.138.7.223/tv/dl/careryun.php?id=4
+http://8.138.7.223/tv/dl/careryun.php?id=5
+http://8.138.7.223/tv/dl/careryun.php?id=6
+http://8.138.7.223/tv/dl/careryun.php?id=7
+http://8.138.7.223/tv/dl/careryun.php?id=8
+http://8.138.7.223/tv/dl/careryun.php?id=9
+http://smart.tv.home.kg/smtv.php?id=cctv1
+http://smart.tv.home.kg/smtv.php?id=cctv2
+http://smart.tv.home.kg/smtv.php?id=cctv3
+http://smart.tv.home.kg/smtv.php?id=cctv4
+http://smart.tv.home.kg/smtv.php?id=cctv5
+http://smart.tv.home.kg/smtv.php?id=cctv6
+http://smart.tv.home.kg/smtv.php?id=cctv7
+http://smart.tv.home.kg/smtv.php?id=cctv8
+http://smart.tv.home.kg/smtv.php?id=cctv9
+http://smart.tv.home.kg/smtv.php?id=cctv
+http://8.138.7.223/tv/dl/douyincdn.php?id=
+http://8.138.7.223/tv/dl/douyincdn.php?id=1
+http://8.138.7.223/tv/dl/douyincdn.php?id=2
+http://8.138.7.223/tv/dl/douyincdn.php?id=3
+http://8.138.7.223/tv/dl/douyincdn.php?id=4
+
