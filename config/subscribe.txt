@@ -4,7 +4,6 @@ https://live.kilvn.com/iptv.m3u
 https://tv.iill.top/m3u/Gather
 https://tv.iill.top/m3u/Live
 http://wx.thego.cn/backup.m3u
-http://tot.totalh.net/tttt.txt
 https://live.zbds.top/tv/iptv4.txt
 https://live.zbds.top/tv/iptv6.txt
 https://live.izbds.com/tv/iptv4.txt
