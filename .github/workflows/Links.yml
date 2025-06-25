@@ -7,6 +7,8 @@ on:
         description: '提交消息'
         required: false
         default: '自动更新去重后的订阅文件'
+  schedule:
+    - cron: '0 0 * * *'  # 每天凌晨执行
 
 jobs:
   deduplicate:
@@ -15,33 +17,71 @@ jobs:
     steps:
       - name: 检出代码
         uses: actions/checkout@v4
+        with:
+          ref: main  # 明确指定分支，根据你的仓库调整
+          path: iptv-api  # 指定检出目录，与错误路径中的目录名匹配
+
+      - name: 调试：显示文件结构
+        run: |
+          echo "工作目录:"
+          pwd
+          echo "文件列表:"
+          ls -la
+          echo "iptv-api 目录内容:"
+          ls -la iptv-api/
+          echo "config 目录内容:"
+          ls -la iptv-api/config/
+          echo "Python 版本:"
+          python --version
 
       - name: 设置Python环境
         uses: actions/setup-python@v5
         with:
           python-version: '3.9'
 
-      - name: 运行去重脚本
+      - name: 验证脚本存在性
+        id: check_script
         run: |
-          python config/dedup_subscribe.py
-          cat config/deduped/subscribe.txt
+          if [ -f "iptv-api/config/dedup_subscribe.py" ]; then
+            echo "脚本存在"
+            echo "script_exists=true" >> $GITHUB_OUTPUT
+          else
+            echo "错误：未找到脚本文件"
+            echo "script_exists=false" >> $GITHUB_OUTPUT
+            exit 1
+          fi
+
+      - name: 运行去重脚本
+        if: steps.check_script.outputs.script_exists == 'true'
+        run: |
+          python iptv-api/config/dedup_subscribe.py
+          if [ -f "iptv-api/config/deduped/subscribe.txt" ]; then
+            echo "去重后的文件内容:"
+            cat iptv-api/config/deduped/subscribe.txt
+          else
+            echo "错误：未生成去重后的文件"
+            exit 1
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 上传去重后的文件
         uses: actions/upload-artifact@v4
         with:
           name: deduped-subscribe
-          path: config/deduped/subscribe.txt
+          path: iptv-api/config/deduped/subscribe.txt
           retention-days: 7
 
       - name: 提交并推送更改
         if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master'
         run: |
+          cd iptv-api  # 进入项目目录
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add config/deduped/subscribe.txt
           if git diff --staged --quiet; then
             echo "没有更改需要提交"
           else
-            git commit -m "${{ github.event.inputs.commit_message }}"
+            git commit -m "${{ github.event.inputs.commit_message || '自动去重更新' }}"
             git push
-          fi    
+          fi
