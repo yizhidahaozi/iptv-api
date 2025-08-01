@@ -1,18 +1,20 @@
 🕘️更新时间,#genre#
-2025-08-01 18:23:30,http://8.138.7.223/tv/migu8.php?id=c74966f7109bc090b8b9f234bec5884f
+2025-08-02 06:20:09,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
 
 📺央视频道,#genre#
-CCTV1,http://8.138.7.223/tv/migu8.php?id=c74966f7109bc090b8b9f234bec5884f
 CCTV1,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
-CCTV2,http://8.138.7.223/tv/migu8.php?id=1434bac241017d9eb89485bc80491bf6
+CCTV1,http://8.138.7.223/tv/migu8.php?id=c74966f7109bc090b8b9f234bec5884f
 CCTV2,http://58.19.180.108:9981/stream/channelid/980211261?profile=pass
+CCTV2,http://8.138.7.223/tv/migu8.php?id=1434bac241017d9eb89485bc80491bf6
 CCTV3,http://220.169.100.41:10087/udp/239.76.246.153:1234
 CCTV3,http://220.169.100.41:10087/udp/239.76.253.153:9000
 CCTV3,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8
 CCTV3,http://home.yulei.online:9999/rtp/226.0.2.208:9576
+CCTV4,http://8.138.7.223/tv/migu8.php?id=66e1470c453536359985b7b9b8222742
+CCTV4,http://8.138.7.223/tv/migu8.php?id=45de6fabfc0d9dfd41de6ad5022d8fce
 CCTV4,http://home.yulei.online:9999/rtp/226.0.2.156:9160
-CCTV5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8
 CCTV5,http://116.237.148.215:8881/rtp/239.45.1.69:5140
+CCTV5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8
 CCTV5+,http://omnix.cn:4000/udp/225.1.8.20:8004
 CCTV6,http://116.237.148.215:8881/rtp/239.45.1.70:5140
 CCTV6,http://111.193.239.245:9999/rtp/239.3.1.174:8001
@@ -31,14 +33,14 @@ CCTV12,http://111.193.239.245:9999/rtp/239.3.1.64:8124
 CCTV13,http://111.193.239.245:9999/rtp/239.3.1.124:8128
 CCTV15,http://111.193.239.245:9999/rtp/239.3.1.153:8136
 CCTV16,http://124.235.225.122:2284/nptv/cctv16.m3u8
-CCTV16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 CCTV16,http://qjrhc.jydjd.top:2911/udp/225.1.101.133:7523
+CCTV16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 
 📺卫视频道,#genre#
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
-河北卫视,http://27.18.157.225:2701/rtp/239.254.96.113:9616
 河北卫视,http://joyznm.i234.me:20000/udp/239.3.1.148:8072
+河北卫视,http://27.18.157.225:2701/rtp/239.254.96.113:9616
 河北卫视,http://8.138.7.223/tv/heb.php
 河北卫视,http://qjrhc.jydjd.top:2911/udp/225.1.101.127:7523
 安徽卫视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ahwssx.m3u8
@@ -55,12 +57,14 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 广西卫视,http://27.18.157.225:2701/rtp/239.69.1.191:10788
 广西卫视,http://qjrhc.jydjd.top:2911/udp/225.1.101.21:7523
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
+海峡卫视,https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=2eb93df51754095791
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
-河南卫视,http://kds.hejintv.com/tv/hn.php
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://150.158.10.195:80/dxxw.php
+河南卫视,http://kds.hejintv.com/tv/hn.php
 河南卫视,http://116.237.148.215:8881/rtp/239.45.0.3:5140
 河南卫视,http://qjrhc.jydjd.top:2911/udp/225.1.101.91:7523
+河南卫视,http://14.29.45.87/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=77897d0e29bb14e2c6c5572ebb67936b&wsTime=1754096577&wsSession=f9f68c7e98d837101c596f13-175408608257901&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
 湖北卫视,http://111.193.239.245:9999/rtp/239.3.1.138:8044
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 吉林卫视,https://hyf000.eu.org/80947108/JILINWS
@@ -135,21 +139,21 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 📺新闻,#genre#
 
 🌊港·澳·台,#genre#
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯,http://220.169.100.41:10087/udp/239.76.246.135:1234
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 翡翠,http://222.128.55.152:9080/live/gdfc.m3u8
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 翡翠台,http://8.138.7.223/tv/hot.php?id=68
 
 🌊美国,#genre#
