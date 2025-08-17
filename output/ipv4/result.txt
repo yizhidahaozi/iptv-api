@@ -1,14 +1,13 @@
 🕘️更新时间,#genre#
-2025-08-17 06:18:11,http://8.138.7.223/tv/migu8.php?id=c74966f7109bc090b8b9f234bec5884f
+2025-08-17 18:18:39,http://8.138.7.223/tv/migu8.php?id=c74966f7109bc090b8b9f234bec5884f
 
 📺央视频道,#genre#
 CCTV1,http://8.138.7.223/tv/migu8.php?id=c74966f7109bc090b8b9f234bec5884f
 CCTV1,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
-CCTV2,http://8.138.7.223/tv/migu8.php?id=1434bac241017d9eb89485bc80491bf6
 CCTV2,http://58.19.180.108:9981/stream/channelid/980211261?profile=pass
+CCTV2,http://8.138.7.223/tv/migu8.php?id=1434bac241017d9eb89485bc80491bf6
 CCTV3,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8
 CCTV3,http://home.yulei.online:9999/rtp/226.0.2.208:9576
-CCTV3,http://221.205.129.173:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://8.138.7.223/tv/migu8.php?id=45de6fabfc0d9dfd41de6ad5022d8fce
 CCTV4,http://8.138.7.223/tv/migu8.php?id=66e1470c453536359985b7b9b8222742
 CCTV4,http://home.yulei.online:9999/rtp/226.0.2.156:9160
@@ -34,9 +33,11 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 广东卫视,http://106.53.99.30/tv/20250717.php
 广西卫视,http://qjrhc.jydjd.top:2911/udp/225.1.101.21:7523
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
+海峡卫视,https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=514404921755431296
 河南卫视,http://150.158.10.195:80/dxxw.php
 河南卫视,http://kds.hejintv.com/tv/hn.php
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=01b73832b55a0ee121ff79dff0018d03&wsTime=1755428667&wsSession=053c4abd8e6b0e2e4f59d49b-175542166386119&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
 湖北卫视,http://182.113.6.210:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
@@ -44,7 +45,6 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-agixOT.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 深圳卫视,http://38.64.72.148/hls/modn/list/4007/playlist.m3u8
 天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
@@ -92,18 +92,16 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 2017年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
 2018年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
 2022年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
-2023年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 
 📺新闻,#genre#
 
 🌊港·澳·台,#genre#
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
-凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
-凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
