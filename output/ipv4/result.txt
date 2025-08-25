@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-25 18:22:45,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
+2025-08-26 06:18:43,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
 
 📺央视频道,#genre#
 CCTV1,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
@@ -8,14 +8,13 @@ CCTV2,http://58.19.180.108:9981/stream/channelid/980211261?profile=pass
 CCTV2,http://8.138.7.223/tv/migu8.php?id=1434bac241017d9eb89485bc80491bf6
 CCTV3,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8
 CCTV3,http://home.yulei.online:9999/rtp/226.0.2.208:9576
-CCTV4,http://8.138.7.223/tv/migu8.php?id=45de6fabfc0d9dfd41de6ad5022d8fce
 CCTV4,http://home.yulei.online:9999/rtp/226.0.2.156:9160
+CCTV4,http://8.138.7.223/tv/migu8.php?id=45de6fabfc0d9dfd41de6ad5022d8fce
 CCTV4,http://8.138.7.223/tv/migu8.php?id=66e1470c453536359985b7b9b8222742
 CCTV11,rtmp://weishi.hyuui.top/weishi/1234_cctv11
 CCTV12,rtmp://weishi.hyuui.top/weishi/1234_cctv12
 CCTV16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
-CGTN,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtn
 
 📺卫视频道,#genre#
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
@@ -33,47 +32,40 @@ CGTN,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtn
 北京卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.151:5146
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
-东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=d4adff581756125112
-东南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dnws
 广东卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
-广东卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gdws
 广东卫视,http://joyznm.i234.me:20000/udp/239.3.1.142:8048###des:1080P###HLS\\n
 广东卫视,http://106.53.99.30/tv/20250717.php
-广东卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.2:5146
 广东卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.2:5146
+广东卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.2:5146
 广东卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.19:5146
+广东卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.152:5146
 广西卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
 广西卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.66:5146
 广西卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.139:5146
-广西卫视,http://qjrhc.jydjd.top:2911/udp/225.1.101.21:7523
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 贵州卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
-海南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hinws
 海南卫视,http://ymz.stkeyu.top:8303/rtp/239.253.43.35:5146
+海峡卫视,https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=593b12dd1756166010
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://150.158.10.195:80/dxxw.php
 河南卫视,http://kds.hejintv.com/tv/hn.php
 河南卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
-河南卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hnws
 河南卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.229:5146
 湖北卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hubws
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.29:5146
 吉林卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
-吉林卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jlws
 吉林卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.111:5146
-吉林卫视,http://wmh.wmh.ink:6633/rtp/239.77.0.67:5146
 江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
 江苏卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
 江苏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws
-江苏卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.90:5146
 江苏卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.18:5146
+江苏卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.90:5146
 江西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jxws
 江西卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.149:5146
 辽宁卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
 辽宁卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.123:5146
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
-青海卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=qhws
 三沙卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
@@ -83,9 +75,9 @@ CGTN,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtn
 深圳卫视,http://wmh.wmh.ink:6633/rtp/239.77.0.92:5146
 深圳卫视,http://38.64.72.148/hls/modn/list/4007/playlist.m3u8
 四川卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
-四川卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.163:5146
 四川卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.215:5146
 四川卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.159:5146
+四川卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.163:5146
 天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
 天津卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
 天津卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.97:5146
@@ -98,7 +90,6 @@ CGTN,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtn
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 云南卫视,http://8.138.7.223/tv/hot.php?id=43
 浙江卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.89:5146
-浙江卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.47:5146
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 重庆卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
 重庆卫视,http://joyznm.i234.me:20000/udp/239.3.1.122:8160
@@ -108,7 +99,6 @@ CGTN,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtn
 东方卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.98:5146
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 黑龙江卫视,http://43.152.25.217:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
-黑龙江卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.6:5146
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 内蒙古卫视,http://zb.hmysapp.cn:801/dft/neimeng/neimeng.php
 
@@ -125,6 +115,7 @@ CGTN,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtn
 1994年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
 1995年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
 1996年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+1998年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
 2000年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
 2001年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
 2002年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
@@ -142,7 +133,7 @@ CGTN,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtn
 2017年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
 2018年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
 2022年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
-2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
+2023年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 
 📺新闻,#genre#
 
