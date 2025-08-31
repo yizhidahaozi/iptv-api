@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-31 06:17:00,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
+2025-08-31 18:17:50,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
 
 📺央视频道,#genre#
 CCTV1,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
@@ -8,11 +8,14 @@ CCTV3,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1/ind
 CCTV3,http://home.yulei.online:9999/rtp/226.0.2.208:9576
 CCTV4,http://8.138.7.223/tv/migu8.php?id=45de6fabfc0d9dfd41de6ad5022d8fce
 CCTV4,http://home.yulei.online:9999/rtp/226.0.2.156:9160
+CCTV6,http://110.181.237.202:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://113.26.202.52:1299/tsfile/live/0009_1.m3u8
+CCTV10,http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV11,rtmp://weishi.hyuui.top/weishi/1234_cctv11
 CCTV12,rtmp://weishi.hyuui.top/weishi/1234_cctv12
 CCTV12,http://110.181.234.38:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://222.169.85.8:9901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
-CCTV17,http://218.17.33.178:53290/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 
 📺卫视频道,#genre#
@@ -32,18 +35,17 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 广西卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.139:5146
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 海南卫视,http://ymz.stkeyu.top:8303/rtp/239.253.43.35:5146
-海峡卫视,https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=01b8cfb81756597943
-河南卫视,http://150.158.10.195:80/dxxw.php
 河南卫视,http://kds.hejintv.com/tv/hn.php
+河南卫视,http://150.158.10.195:80/dxxw.php
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=c65a182716b2711f27d698607da96e10&wsTime=1756648325&wsSession=053c4abd8e6b0e2e4f59d49b-175663472720780&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
 湖北卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hubws
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.29:5146
 吉林卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.111:5146
-江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
 江苏卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsws
+江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
 江苏卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.18:5146
-江苏卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.90:5146
 江西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jxws
 辽宁卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.123:5146
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
@@ -51,18 +53,18 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=sxws
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
-深圳卫视,http://wmh.wmh.ink:6633/rtp/239.77.0.92:5146
 深圳卫视,http://38.64.72.148/hls/modn/list/4007/playlist.m3u8
+深圳卫视,http://wmh.wmh.ink:6633/rtp/239.77.0.92:5146
 四川卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.215:5146
 四川卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.159:5146
 天津卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.97:5146
-西藏卫视,http://kds.hejintv.com/tv/xzxl.php
-西藏卫视,http://zb.hmysapp.cn:801/dft/xizang/xizang.php
 西藏卫视,http://8.138.7.223/tv/hot.php?id=44
+西藏卫视,http://zb.hmysapp.cn:801/dft/xizang/xizang.php
+西藏卫视,http://kds.hejintv.com/tv/xzxl.php
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
+云南卫视,http://8.138.7.223/tv/hot.php?id=43
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-云南卫视,http://8.138.7.223/tv/hot.php?id=43
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 重庆卫视,http://joyznm.i234.me:20000/udp/239.3.1.122:8160
 东方卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=dfws
@@ -103,13 +105,12 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 
 🌊港·澳·台,#genre#
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778
-凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
