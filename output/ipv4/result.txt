@@ -1,21 +1,14 @@
 🕘️更新时间,#genre#
-2025-09-05 06:16:31,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
+2025-09-05 18:18:53,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
 
 📺央视频道,#genre#
 CCTV1,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
 CCTV2,http://58.19.180.108:9981/stream/channelid/980211261?profile=pass
-CCTV2,http://106.52.196.79:80/TV/mui.php?id=cctv2
 CCTV3,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8
 CCTV3,http://home.yulei.online:9999/rtp/226.0.2.208:9576
-CCTV4,http://106.52.196.79:80/TV/mui.php?id=cctv4
 CCTV4,http://home.yulei.online:9999/rtp/226.0.2.156:9160
-CCTV6,http://106.52.196.79:80/TV/mui.php?id=cctv6
-CCTV7,http://106.52.196.79:80/TV/mui.php?id=cctv7
-CCTV8,http://106.52.196.79:80/TV/mui.php?id=cctv8
-CCTV10,http://106.52.196.79:80/TV/mui.php?id=cctv10
 CCTV11,rtmp://weishi.hyuui.top/weishi/1234_cctv11
 CCTV12,rtmp://weishi.hyuui.top/weishi/1234_cctv12
-CCTV13,http://106.52.196.79:80/TV/mui.php?id=cctv13
 CCTV16,http://home.yulei.online:9999/rtp/226.0.2.169:9264
 CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 
@@ -24,13 +17,13 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 河北卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.148:5146
 安徽卫视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ahwssx.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+兵团卫视,https://my5353.com/7Z1HP
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 广东卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.2:5146
 广东卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.2:5146
 广西卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.139:5146
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 海南卫视,http://ymz.stkeyu.top:8303/rtp/239.253.43.35:5146
-海峡卫视,https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=11aabf091757033364
 河南卫视,http://150.158.10.195:80/dxxw.php
 河南卫视,http://kds.hejintv.com/tv/hn.php
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
@@ -43,8 +36,8 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 深圳卫视,http://wmh.wmh.ink:6633/rtp/239.77.0.92:5146
-四川卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.215:5146
 四川卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.159:5146
+四川卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.215:5146
 西藏卫视,http://kds.hejintv.com/tv/xzxl.php
 西藏卫视,http://zb.hmysapp.cn:801/dft/xizang/xizang.php
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
@@ -53,6 +46,7 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
+厦门卫视,http://125.42.148.255:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺河北频道,#genre#
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
@@ -62,7 +56,6 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 1987年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
 1988年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
 1989年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-1992年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
 1993年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
 1994年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
 1995年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
@@ -88,17 +81,19 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 
 🌊港·澳·台,#genre#
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778
-凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 翡翠,http://222.128.55.152:9080/live/gdfc.m3u8
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 
 🌊美国,#genre#
 Bounce,https://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
