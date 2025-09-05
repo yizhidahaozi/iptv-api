@@ -1,11 +1,12 @@
 🕘️更新时间,#genre#
-2025-09-05 18:18:53,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
+2025-09-06 06:16:59,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
 
 📺央视频道,#genre#
 CCTV1,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
 CCTV2,http://58.19.180.108:9981/stream/channelid/980211261?profile=pass
 CCTV3,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8
 CCTV3,http://home.yulei.online:9999/rtp/226.0.2.208:9576
+CCTV4,http://111.43.126.240:9003/hls/16/index.m3u8
 CCTV4,http://home.yulei.online:9999/rtp/226.0.2.156:9160
 CCTV11,rtmp://weishi.hyuui.top/weishi/1234_cctv11
 CCTV12,rtmp://weishi.hyuui.top/weishi/1234_cctv12
@@ -24,9 +25,11 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 广西卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.139:5146
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 海南卫视,http://ymz.stkeyu.top:8303/rtp/239.253.43.35:5146
+海峡卫视,https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=5f8a841d1757119644
 河南卫视,http://150.158.10.195:80/dxxw.php
 河南卫视,http://kds.hejintv.com/tv/hn.php
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://14.29.45.99/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=11d4f6c35b19596b6b7d1205207ab801&wsTime=1757115870&wsSession=a024c7df890516cbe308eec4-175710992755311&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 吉林卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.111:5146
 江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
@@ -34,10 +37,10 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-bwJLN8.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
-深圳卫视,http://wmh.wmh.ink:6633/rtp/239.77.0.92:5146
-四川卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.159:5146
 四川卫视,http://ymz.stkeyu.top:8303/rtp/239.77.1.215:5146
+四川卫视,http://ymz.stkeyu.top:8303/rtp/239.77.0.159:5146
 西藏卫视,http://kds.hejintv.com/tv/xzxl.php
 西藏卫视,http://zb.hmysapp.cn:801/dft/xizang/xizang.php
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
@@ -46,7 +49,6 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 东方卫视,http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
-厦门卫视,http://125.42.148.255:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺河北频道,#genre#
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
@@ -81,11 +83,10 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 
 🌊港·澳·台,#genre#
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
@@ -93,7 +94,6 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb/playlist.m3u8
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 翡翠,http://222.128.55.152:9080/live/gdfc.m3u8
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
 
 🌊美国,#genre#
 Bounce,https://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
