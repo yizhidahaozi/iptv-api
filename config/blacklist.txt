@@ -2,6 +2,7 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 http://tp88.cn/IPTV/fujian/pttv.php
+
 http://smart.tv.home.kg/smtv.php?id=cctv1
 http://8.138.7.223/tv/dl/careryun.php?id=1
 http://8.138.7.223/tv/dl/careryun.php?id=2
@@ -27,3 +28,4 @@ http://8.138.7.223/tv/dl/douyincdn.php?id=1
 http://8.138.7.223/tv/dl/douyincdn.php?id=2
 http://8.138.7.223/tv/dl/douyincdn.php?id=3
 http://8.138.7.223/tv/dl/douyincdn.php?id=4
+
