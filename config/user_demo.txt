@@ -164,7 +164,7 @@ CETV4
 📺新闻,#genre#
 全天新闻
 亚洲新闻
-
+国际频道
 
 
 
@@ -173,17 +173,17 @@ CETV4
 半岛新闻
 台视新闻
 華視戲劇
-
+三立新闻
 香港電台
-
+中视新闻
 香港面包
 
 凤凰中文
 凤凰卫视
 凤凰资讯
-
+千禧经典
 星空卫视
-
+环球电视
 中视
 中视HD
 
@@ -212,6 +212,11 @@ TVBS新闻台
 
 蕃薯
 番薯
+民视新闻台
+民视台湾台
+民视第一台
+民视综艺台
+
 
 
 
@@ -322,6 +327,7 @@ JACKSON
 AXSTVNOW
 
 🌊日本,#genre#
+日本新闻
 NTVNews24
 ShopChannel
 スターチャンネル 2
@@ -332,6 +338,12 @@ ShopChannel
 Action
 FOX
 QVC
+チャンネル銀河
+ヒストリーチャンネル
+NHK综合电视ジョン
+日本映画専門チャンネル
+
+
 
 🌊韩国,#genre#
 EBS2
@@ -349,6 +361,13 @@ Arirang
 C
 CJMBC
 KBCSBS
+CGN韩国， 시지엔티비
+
+CGNTV South Korea
+韩国EBS少儿
+
+
+
 
 🌊朝鲜,#genre#
 
@@ -367,6 +386,12 @@ Nazara
 TV9BHARATVARSH
 
 🌊巴西,#genre#
+RedeTV!
+Rede Globo
+TV Nacional
+TVT
+
+
 
 🌊加拿大,#genre#
 
