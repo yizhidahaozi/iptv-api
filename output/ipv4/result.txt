@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-04 06:17:31,http://171.15.18.199:8180/TV00000000000000000001@HHZT
+2025-10-04 18:19:06,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 
 📺央视频道,#genre#
 CCTV1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
@@ -9,9 +9,9 @@ CCTV4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 CCTV5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV8,http://171.15.18.199:8180/TV00000000000000000008@HHZT
 CCTV8,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://171.15.18.199:8180/TV00000000000000000009@HHZT
 CCTV9,http://omnix.cn:4000/udp/225.1.8.9:8112
-CCTV10,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7193&tk=b53028476470
+CCTV9,http://171.15.18.199:8180/TV00000000000000000009@HHZT
+CCTV9,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1383&tk=f6cc1e0a0e1a
 CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV15,http://171.15.18.199:8180/TV00000000000000000015@HHZT
 
@@ -42,7 +42,6 @@ CCTV15,http://171.15.18.199:8180/TV00000000000000000015@HHZT
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-hikxW4.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
@@ -58,7 +57,6 @@ CCTV15,http://171.15.18.199:8180/TV00000000000000000015@HHZT
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8#http://211.72.65.236:8506/.m3u8
-莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8#http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1#https://fenghuang.tv12.xyz/187.m3u8#http://fenghuang.tv12.xyz/187.m3u8
 莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 
 📺河北频道,#genre#
@@ -90,12 +88,13 @@ CCTV15,http://171.15.18.199:8180/TV00000000000000000015@HHZT
 2014年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
 2018年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 
 📺新闻,#genre#
 
 🌊港·澳·台,#genre#
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
