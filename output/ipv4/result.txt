@@ -1,22 +1,30 @@
 🕘️更新时间,#genre#
-2025-10-14 06:16:36,http://171.15.18.199:8180/TV00000000000000000001@HHZT
+2025-10-14 18:20:22,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 
 📺央视频道,#genre#
 CCTV1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 CCTV3,http://171.15.18.199:8180/TV00000000000000000003@HHZT
+CCTV4,http://180.136.233.111:10099/udp/239.81.0.96:4056
 CCTV4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV5,http://171.15.18.199:8180/TV00000000000000000005@HHZT
+CCTV4,http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8
 CCTV5,http://omnix.cn:4000/udp/225.1.8.89:8000
+CCTV5,http://171.15.18.199:8180/TV00000000000000000005@HHZT
+CCTV5,http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8
+CCTV5+,http://61.184.46.85:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://180.136.233.111:10099/udp/239.81.0.233:4056
+CCTV7,http://61.184.46.85:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://omnix.cn:4000/udp/225.1.8.9:8112
 CCTV10,http://171.15.18.199:8180/TV00000000000000000010@HHZT
+CCTV12,http://180.136.233.111:10099/udp/239.81.0.119:4056
 CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 
 📺卫视频道,#genre#
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 河北卫视,http://php.fjl626.cn/hebei.php?id=hbws
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+安徽卫视,http://180.136.233.111:10099/udp/239.81.0.211:4056
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
@@ -26,9 +34,10 @@ CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 海峡卫视,http://8.138.7.223/tv/hxws.m3u8
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,http://ik6.iptv8.net:8888/rtp/225.1.4.254:1300
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
+河南卫视,http://ik6.iptv8.net:8888/rtp/225.1.4.254:1300
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
+湖北卫视,http://180.136.233.111:10099/udp/239.81.0.112:4056
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
@@ -39,7 +48,7 @@ CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-bxHSX1.m3u8
+陕西卫视,http://sh.lnott.top:880/dx51.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
@@ -53,9 +62,9 @@ CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8#http://211.72.65.236:8506/.m3u8
-莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8#http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1#https://fenghuang.tv12.xyz/187.m3u8#http://fenghuang.tv12.xyz/187.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+莲花卫视,http://122.53.222.9:9981/stream/channelid/801543536?profile=pass
 莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 
 📺河北频道,#genre#
@@ -86,7 +95,6 @@ CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 2014年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
 2018年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 
 📺新闻,#genre#
 
@@ -99,6 +107,7 @@ CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
+星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 中视,rtmp://f13h.mine.nu/sat/tv091
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
@@ -110,8 +119,6 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 🌊美国,#genre#
-Bounce,https://fl7.moveonjoy.com/BOUNCE_TV/index.m3u8
-Bounce,https://fl25.moveonjoy.com/BOUNCE_TV/index.m3u8
 Grit,https://fl7.moveonjoy.com/GRIT_TV/index.m3u8
 Grit,https://fl25.moveonjoy.com/GRIT_TV/index.m3u8
 
@@ -123,5 +130,6 @@ Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 
 🌊英国,#genre#
+2STV,http://69.64.57.208/2stv/playlist.m3u8
 
 🌊泰国,#genre#
