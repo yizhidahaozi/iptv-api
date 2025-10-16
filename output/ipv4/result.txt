@@ -1,26 +1,15 @@
 🕘️更新时间,#genre#
-2025-10-16 18:19:46,http://180.136.233.111:10099/udp/239.81.0.102:4056
+2025-10-17 06:16:07,http://180.136.233.111:10099/udp/239.81.0.102:4056
 
 📺央视频道,#genre#
 CCTV1,http://180.136.233.111:10099/udp/239.81.0.102:4056
-CCTV2,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 CCTV4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV5,http://omnix.cn:4000/udp/225.1.8.89:8000
-CCTV5+,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0#http://183.215.134.239:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.27.235.94:8000/hls/9/index.m3u8
 CCTV8,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://omnix.cn:4000/udp/225.1.8.9:8112
-CCTV9,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV13,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV1,https://httop.top/ysp-cetv1
 
 📺卫视频道,#genre#
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
@@ -33,7 +22,6 @@ CCTV15,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0015_1.m3u8?key=txiptv&pl
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 海峡卫视,http://8.138.7.223/tv/hxws.m3u8
-海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://ik6.iptv8.net:8888/rtp/225.1.4.254:1300
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
@@ -48,6 +36,7 @@ CCTV15,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0015_1.m3u8?key=txiptv&pl
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-hvSVW3.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
@@ -59,16 +48,17 @@ CCTV15,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0015_1.m3u8?key=txiptv&pl
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
-东方卫视,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0107_2.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8#http://211.72.65.236:8506/.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 莲花卫视,http://122.53.222.9:9981/stream/channelid/801543536?profile=pass
 
 📺河北频道,#genre#
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 河北都市,http://php.fjl626.cn/hebei.php?id=hbds
 河北农民,http://php.fjl626.cn/hebei.php?id=nmpd
+邯郸新闻,http://bclivepull.handannews.com.cn/BClive/NewsBroadcast.m3u8
 
 📺春晚,#genre#
 1987年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
@@ -98,8 +88,6 @@ CCTV15,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0015_1.m3u8?key=txiptv&pl
 
 🌊港·澳·台,#genre#
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
@@ -117,9 +105,7 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 🌊美国,#genre#
-Bounce,https://fl7.moveonjoy.com/BOUNCE_TV/index.m3u8
 Bounce,https://fl25.moveonjoy.com/BOUNCE_TV/index.m3u8
-Grit,https://fl7.moveonjoy.com/GRIT_TV/index.m3u8
 Grit,https://fl25.moveonjoy.com/GRIT_TV/index.m3u8
 
 🌊日本,#genre#
