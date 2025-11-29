@@ -25,15 +25,7 @@ CCTV 怀旧剧场
 CCTV 风云足球
 CCTV 电视指南
 CCTV 老故事
-CGTN
-CGTN 俄语
-CGTN 法语
-CGTN 纪录
-CGTN 西语
-CGTN 阿语
-CETV1
-CETV2
-CETV4
+
 
 
 📺卫视频道,#genre#
