@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251129074546 +0800">
+<tv date="20251129103030 +0800">
 	<channel id="CGTN">
 		<display-name lang="zh">CGTN</display-name>
 	</channel>
@@ -9212,6 +9212,102 @@
 	</programme>
 	<programme channel="广州竞赛" start="20251129233000 +0800" stop="20251129235900 +0800">
 		<title lang="zh">体育赛事</title>
+	</programme>
+	<channel id="广州综合">
+		<display-name lang="zh">广州综合</display-name>
+	</channel>
+	<programme channel="广州综合" start="20251129004000 +0800" stop="20251129033000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="广州综合" start="20251129033000 +0800" stop="20251129040000 +0800">
+		<title lang="zh">中国城市报道</title>
+	</programme>
+	<programme channel="广州综合" start="20251129040000 +0800" stop="20251129043000 +0800">
+		<title lang="zh">经济新闻</title>
+	</programme>
+	<programme channel="广州综合" start="20251129043000 +0800" stop="20251129050000 +0800">
+		<title lang="zh">真情追踪</title>
+	</programme>
+	<programme channel="广州综合" start="20251129050000 +0800" stop="20251129053000 +0800">
+		<title lang="zh">凡事有得倾</title>
+	</programme>
+	<programme channel="广州综合" start="20251129053000 +0800" stop="20251129055500 +0800">
+		<title lang="zh">最街拍档</title>
+	</programme>
+	<programme channel="广州综合" start="20251129055500 +0800" stop="20251129064000 +0800">
+		<title lang="zh">真情追踪</title>
+	</programme>
+	<programme channel="广州综合" start="20251129064000 +0800" stop="20251129065600 +0800">
+		<title lang="zh">今日报道</title>
+	</programme>
+	<programme channel="广州综合" start="20251129065600 +0800" stop="20251129090000 +0800">
+		<title lang="zh">广州早晨</title>
+	</programme>
+	<programme channel="广州综合" start="20251129090000 +0800" stop="20251129091500 +0800">
+		<title lang="zh">家装专题</title>
+	</programme>
+	<programme channel="广州综合" start="20251129091500 +0800" stop="20251129094500 +0800">
+		<title lang="zh">岭南星空</title>
+	</programme>
+	<programme channel="广州综合" start="20251129094500 +0800" stop="20251129100000 +0800">
+		<title lang="zh">家装专题</title>
+	</programme>
+	<programme channel="广州综合" start="20251129100000 +0800" stop="20251129113000 +0800">
+		<title lang="zh">广州跑男</title>
+	</programme>
+	<programme channel="广州综合" start="20251129113000 +0800" stop="20251129114500 +0800">
+		<title lang="zh">家装专题</title>
+	</programme>
+	<programme channel="广州综合" start="20251129114500 +0800" stop="20251129123000 +0800">
+		<title lang="zh">真情追踪</title>
+	</programme>
+	<programme channel="广州综合" start="20251129123000 +0800" stop="20251129131500 +0800">
+		<title lang="zh">午间新闻</title>
+	</programme>
+	<programme channel="广州综合" start="20251129131500 +0800" stop="20251129134000 +0800">
+		<title lang="zh">中国城市报道</title>
+	</programme>
+	<programme channel="广州综合" start="20251129134000 +0800" stop="20251129165500 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="广州综合" start="20251129165500 +0800" stop="20251129172500 +0800">
+		<title lang="zh">岭南英雄传</title>
+	</programme>
+	<programme channel="广州综合" start="20251129172500 +0800" stop="20251129173000 +0800">
+		<title lang="zh">健康广州</title>
+	</programme>
+	<programme channel="广州综合" start="20251129173000 +0800" stop="20251129180000 +0800">
+		<title lang="zh">百味广州</title>
+	</programme>
+	<programme channel="广州综合" start="20251129180000 +0800" stop="20251129190000 +0800">
+		<title lang="zh">广视新闻</title>
+	</programme>
+	<programme channel="广州综合" start="20251129190000 +0800" stop="20251129193000 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="广州综合" start="20251129193000 +0800" stop="20251129201200 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="广州综合" start="20251129201200 +0800" stop="20251129201700 +0800">
+		<title lang="zh">新闻快讯</title>
+	</programme>
+	<programme channel="广州综合" start="20251129201700 +0800" stop="20251129210000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="广州综合" start="20251129210000 +0800" stop="20251129213000 +0800">
+		<title lang="zh">今日报道</title>
+	</programme>
+	<programme channel="广州综合" start="20251129213000 +0800" stop="20251129230000 +0800">
+		<title lang="zh">剧场</title>
+	</programme>
+	<programme channel="广州综合" start="20251129230000 +0800" stop="20251129233000 +0800">
+		<title lang="zh">夜间新闻</title>
+	</programme>
+	<programme channel="广州综合" start="20251129233000 +0800" stop="20251129235500 +0800">
+		<title lang="zh">岭南英雄传</title>
+	</programme>
+	<programme channel="广州综合" start="20251129235500 +0800" stop="20251129235900 +0800">
+		<title lang="zh">真情追踪</title>
 	</programme>
 	<channel id="广西卫视">
 		<display-name lang="zh">广西卫视</display-name>
