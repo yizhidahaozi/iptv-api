@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/yizhidahaozi/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-30 18:33:16
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-01 06:28:13
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010101
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📺卫视频道",河北卫视
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010101
@@ -2907,6 +2907,8 @@ https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-2.m3u8
 https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-3.m3u8
 #EXTINF:-1 tvg-name="宿州公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宿州公共.png" group-title="📺地方频道",宿州公共
 http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+#EXTINF:-1 tvg-name="宿松新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宿松新闻综合.png" group-title="📺地方频道",宿松新闻综合
+http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 #EXTINF:-1 tvg-name="宁夏经济" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏经济.png" group-title="📺地方频道",宁夏经济
 https://ls.qingting.fm/live/1841/64k.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="📺地方频道",延边卫视

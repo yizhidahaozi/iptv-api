@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-30 18:33:16,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010101
+2025-12-01 06:28:13,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010101
 
 📺卫视频道,#genre#
 河北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010101
@@ -1459,6 +1459,7 @@
 宿州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-2.m3u8
 宿州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-3.m3u8
 宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
+宿松新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 宁夏经济,https://ls.qingting.fm/live/1841/64k.m3u8
 延边卫视,https://stream1.freetv.fun/yan-bian-wei-shi-16.m3u8
 延边卫视,https://stream1.freetv.fun/yan-bian-wei-shi-15.m3u8
