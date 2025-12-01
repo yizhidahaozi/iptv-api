@@ -1,7 +1,11 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-
+https://epg.v1.mk/fy.xml
+http://epg.51zmt.top:8000/e.xml
+https://epg.pw/xmltv/epg_CN.xml
+https://epg.pw/xmltv/epg_HK.xml
+https://epg.pw/xmltv/epg_TW.xml
 https://raw.githubusercontent.com/fanmingming/live/main/e.xml
 http://epg.51zmt.top:8000/e.xml
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
