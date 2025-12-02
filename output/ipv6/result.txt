@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-02 18:29:50,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-03 06:20:59,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -388,6 +388,7 @@ CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 农林卫视,https://migu.188766.xyz/?migutoken=34ea68e37699198b0390adcb60bef872&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
 农林卫视,https://migu.188766.xyz/?migutoken=3e6b0eb5bf25fb41a9bd536d031e01ea&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
 农林卫视,https://migu.188766.xyz/?migutoken=fbec20141ad2310070b8fd088cfbad32&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+农林卫视,https://migu.188766.xyz/?migutoken=c64e5aed9639249b6029ff11d96f0c63&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
 青海卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010111
 青海卫视,http://z.b.bkpcp.top/m.php?id=qhws
 青海卫视,http://j.x.bkpcp.top/jx/QHWS
