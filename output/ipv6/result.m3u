@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/yizhidahaozi/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-03 06:20:59
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-03 18:25:33
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1271,6 +1271,8 @@ https://hls-gateway.vpstv.net/streams/477799.m3u8
 https://hls.iill.top/api/tvN/playlist.m3u8
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/tvN.png" group-title="🌊┃湾区频道",tvN
 https://live.catvod.com/live.php?id=TVN&token=0b01d9903b67df3e4cd2bab89179161c52079e729b17593acb9076033778b873%3A1764638549%3AMTcyLjIxNC40Ny4zNQ%3D%3D
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/tvN.png" group-title="🌊┃湾区频道",tvN
+https://live.catvod.com/live.php?id=TVN&token=7bbb33f99775f853c3969a772cfd9adc45b8efa40080a913523c37595eb8548a%3A1764724961%3ANTIuMTU5LjI0Ny4yMjY%3D
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/J2.png" group-title="🌊┃湾区频道",J2
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/J2.png" group-title="🌊┃湾区频道",J2
@@ -1409,6 +1411,8 @@ http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 https://live.catvod.com/live.php?id=hoycaijing_twn&token=0d6c8e0c1f6767933b19478835ff0fc3abafce9d65fe73f6b4c1cd2df63320b8%3A1764553503%3AMTcyLjE4NC4yMTMuMjI1
 #EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOYTV.png" group-title="🌊┃湾区频道",HOYTV
 https://live.catvod.com/live.php?id=hoycaijing_twn&token=7a8218c5980520669e2fa44057731b4eb6443f27fa62500f1cd21188793ad67f%3A1764638549%3AMTcyLjIxNC40Ny4zNQ%3D%3D
+#EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOYTV.png" group-title="🌊┃湾区频道",HOYTV
+https://live.catvod.com/live.php?id=hoycaijing_twn&token=6305f617957047d1f03a79555b334c350db436a2c324f2de87e92c5e6dedfa73%3A1764724961%3ANTIuMTU5LjI0Ny4yMjY%3D
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="🌊┃湾区频道",TVB Plus
 https://hk.188766.xyz/?migutoken=b04fa4dffe66bd60c8d7fd58ae6592b9&id=hk_tvbp&type=dy
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="🌊┃湾区频道",TVB Plus
@@ -1629,6 +1633,8 @@ https://live.catvod.com/live.php?id=videolandmovie&token=a76bdc035b650a1c05ec1f7
 https://live.catvod.com/live.php?id=videolandmovie&token=fdbbc409059470b0ff7f2babd57e415b0e6f871e51848bd19d11d312063b703f%3A1764553503%3AMTcyLjE4NC4yMTMuMjI1
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来电影.png" group-title="🐶┃影视频道",纬来电影
 https://live.catvod.com/live.php?id=videolandmovie&token=72efec9aa079b8154a32b671cfdba4dac0fc8888850bacecdf249a2210e6b21e%3A1764638549%3AMTcyLjIxNC40Ny4zNQ%3D%3D
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来电影.png" group-title="🐶┃影视频道",纬来电影
+https://live.catvod.com/live.php?id=videolandmovie&token=27438eb92640ee153826fd2159f5ca962c61680ac0d38d2fbe1a1dbcec830d8f%3A1764724961%3ANTIuMTU5LjI0Ny4yMjY%3D
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天映画.png" group-title="🐶┃影视频道",靖天映画
 https://hls-gateway.vpstv.net/streams/476302.m3u8
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天映画.png" group-title="🐶┃影视频道",靖天映画
@@ -1673,5 +1679,7 @@ https://live.catvod.com/live.php?id=JTV_eko&token=86c983d3115d80bb2557a4f670ba6b
 https://tzh911.qzz.io/play-smt.php?id=JTV_eko
 #EXTINF:-1 tvg-name="JTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JTV.png" group-title="🌊韩国",JTV
 https://live.catvod.com/live.php?id=JTV_eko&token=8058ab3b81593d6df52c6c0ac0a282cb3ce004ea6a0c948440360b89030cb7fa%3A1764638549%3AMTcyLjIxNC40Ny4zNQ%3D%3D
+#EXTINF:-1 tvg-name="JTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JTV.png" group-title="🌊韩国",JTV
+https://live.catvod.com/live.php?id=JTV_eko&token=2462f2d577c497317de32eac6756eb152969c18ffa9bbc6fcb07a3822d387d62%3A1764724961%3ANTIuMTU5LjI0Ny4yMjY%3D
 #EXTINF:-1 tvg-name="MBC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MBC.png" group-title="🌊韩国",MBC
 https://hls-gateway.vpstv.net/streams/709125.m3u8
