@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/yizhidahaozi/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-05 06:19:16
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-05 18:23:28
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1279,6 +1279,8 @@ https://live.catvod.com/live.php?id=TVN&token=0b01d9903b67df3e4cd2bab89179161c52
 https://live.catvod.com/live.php?id=TVN&token=7bbb33f99775f853c3969a772cfd9adc45b8efa40080a913523c37595eb8548a%3A1764724961%3ANTIuMTU5LjI0Ny4yMjY%3D
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/tvN.png" group-title="🌊┃湾区频道",tvN
 https://live.catvod.com/live.php?id=TVN&token=ae6cfc8a0cd6e487661ff7619805a50c60655a6e96a28ab47946bfcb38461d2d%3A1764811332%3ANjguMTU0LjExNS4xNzg%3D
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/tvN.png" group-title="🌊┃湾区频道",tvN
+https://live.catvod.com/live.php?id=TVN&token=565a5a5242267da3b4018baacbfcb6570e7a2c7b90411a7d1a768c3cd666335d%3A1764897761%3AMTcyLjE4My45MS4zMg%3D%3D
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/J2.png" group-title="🌊┃湾区频道",J2
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 #EXTINF:-1 tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/J2.png" group-title="🌊┃湾区频道",J2
@@ -1411,6 +1413,8 @@ https://hls-gateway.vpstv.net/streams/709503.m3u8
 https://tzh911.qzz.io/play-smt.php?id=Animax
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Animax.png" group-title="🌊┃湾区频道",Animax
 https://smt.go-iptv.ggff.net/smart.php?id=Animax&token=Goiptv
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Animax.png" group-title="🌊┃湾区频道",Animax
+http://jp.809899.xyz/smt.php?id=Animax
 #EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影台.png" group-title="🌊┃湾区频道",美亚电影台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-name="美亚电影国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影国.png" group-title="🌊┃湾区频道",美亚电影国
@@ -1423,6 +1427,8 @@ https://live.catvod.com/live.php?id=hoycaijing_twn&token=7a8218c5980520669e2fa44
 https://live.catvod.com/live.php?id=hoycaijing_twn&token=6305f617957047d1f03a79555b334c350db436a2c324f2de87e92c5e6dedfa73%3A1764724961%3ANTIuMTU5LjI0Ny4yMjY%3D
 #EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOYTV.png" group-title="🌊┃湾区频道",HOYTV
 https://live.catvod.com/live.php?id=hoycaijing_twn&token=b4336a2c7d62fe2c3ff3cb3237f2383687674133283822abd767cdda72ed9326%3A1764811332%3ANjguMTU0LjExNS4xNzg%3D
+#EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOYTV.png" group-title="🌊┃湾区频道",HOYTV
+https://live.catvod.com/live.php?id=hoycaijing_twn&token=ae27251dfe6a5bd51794ffca5827cd24557e067146ecce731a164f6ccbfede9f%3A1764897761%3AMTcyLjE4My45MS4zMg%3D%3D
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="🌊┃湾区频道",TVB Plus
 https://hk.188766.xyz/?migutoken=b04fa4dffe66bd60c8d7fd58ae6592b9&id=hk_tvbp&type=dy
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB Plus.png" group-title="🌊┃湾区频道",TVB Plus
@@ -1675,6 +1681,8 @@ https://hls-gateway.vpstv.net/streams/709599.m3u8
 https://tzh911.qzz.io/play-smt.php?id=History
 #EXTINF:-1 tvg-name="History" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/History.png" group-title="🌊美国",History
 https://smt.go-iptv.ggff.net/smart.php?id=History&token=Goiptv
+#EXTINF:-1 tvg-name="History" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/History.png" group-title="🌊美国",History
+http://jp.809899.xyz/smt.php?id=History
 #EXTINF:-1 tvg-name="FOX" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/FOX.png" group-title="🌊日本",FOX
 https://hls-gateway.vpstv.net/streams/709256.m3u8
 #EXTINF:-1 tvg-name="BS朝日" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BS朝日.png" group-title="🌊日本",BS朝日
@@ -1685,6 +1693,8 @@ https://hls-gateway.vpstv.net/streams/709123.m3u8
 https://tzh911.qzz.io/play-smt.php?id=ebs2_korea
 #EXTINF:-1 tvg-name="EBS2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBS2.png" group-title="🌊韩国",EBS2
 https://smt.go-iptv.ggff.net/smart.php?id=ebs2_korea&token=Goiptv
+#EXTINF:-1 tvg-name="EBS2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBS2.png" group-title="🌊韩国",EBS2
+http://jp.809899.xyz/smt.php?id=ebs2_korea
 #EXTINF:-1 tvg-name="JTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JTV.png" group-title="🌊韩国",JTV
 https://live.catvod.com/live.php?id=JTV_eko&token=672d4fa49c73644a1abe854ab015e7e3077af30a053e95b591290527ca9f8d90%3A1764379082%3AMTM1LjExOS4yMzYuNTE%3D
 #EXTINF:-1 tvg-name="JTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JTV.png" group-title="🌊韩国",JTV
@@ -1701,5 +1711,9 @@ https://live.catvod.com/live.php?id=JTV_eko&token=2462f2d577c497317de32eac6756eb
 https://live.catvod.com/live.php?id=JTV_eko&token=5160aca499caf8aca2c7aae0f15df4c6533e6fae1e88e05953e0416662951932%3A1764811332%3ANjguMTU0LjExNS4xNzg%3D
 #EXTINF:-1 tvg-name="JTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JTV.png" group-title="🌊韩国",JTV
 https://smt.go-iptv.ggff.net/smart.php?id=JTV_eko&token=Goiptv
+#EXTINF:-1 tvg-name="JTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JTV.png" group-title="🌊韩国",JTV
+https://live.catvod.com/live.php?id=JTV_eko&token=5ad211a57d17fa01e988f788429e1e2adcc54991c646078fed7d7cfe4678063e%3A1764897761%3AMTcyLjE4My45MS4zMg%3D%3D
+#EXTINF:-1 tvg-name="JTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JTV.png" group-title="🌊韩国",JTV
+http://jp.809899.xyz/smt.php?id=JTV_eko
 #EXTINF:-1 tvg-name="MBC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MBC.png" group-title="🌊韩国",MBC
 https://hls-gateway.vpstv.net/streams/709125.m3u8
