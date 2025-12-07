@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-07 06:19:53,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-07 18:21:26,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -655,6 +655,7 @@ tvN,https://live.catvod.com/live.php?id=TVN&token=7bbb33f99775f853c3969a772cfd9a
 tvN,https://live.catvod.com/live.php?id=TVN&token=ae6cfc8a0cd6e487661ff7619805a50c60655a6e96a28ab47946bfcb38461d2d%3A1764811332%3ANjguMTU0LjExNS4xNzg%3D
 tvN,https://live.catvod.com/live.php?id=TVN&token=565a5a5242267da3b4018baacbfcb6570e7a2c7b90411a7d1a768c3cd666335d%3A1764897761%3AMTcyLjE4My45MS4zMg%3D%3D
 tvN,https://live.catvod.com/live.php?id=TVN&token=3b56bcea9a49f062001d06be4f7149027dcba2852a2ca2476a7f68d6d69c4ec8%3A1764983895%3AMjAuMTA5LjM2LjIyNg%3D%3D
+tvN,https://live.catvod.com/live.php?id=TVN&token=d880477b2c415e04532317bc0595cd97bf1af982efdb603ef8037fc05365452c%3A1765071579%3ANC4yMzYuMTczLjE2MQ%3D%3D
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
@@ -730,6 +731,7 @@ HOYTV,https://live.catvod.com/live.php?id=hoycaijing_twn&token=6305f617957047d1f
 HOYTV,https://live.catvod.com/live.php?id=hoycaijing_twn&token=b4336a2c7d62fe2c3ff3cb3237f2383687674133283822abd767cdda72ed9326%3A1764811332%3ANjguMTU0LjExNS4xNzg%3D
 HOYTV,https://live.catvod.com/live.php?id=hoycaijing_twn&token=ae27251dfe6a5bd51794ffca5827cd24557e067146ecce731a164f6ccbfede9f%3A1764897761%3AMTcyLjE4My45MS4zMg%3D%3D
 HOYTV,https://live.catvod.com/live.php?id=hoycaijing_twn&token=9498c2298f8ce7c0279ab63344fac55038fb437dbef8809f5b0ba994e61da1f5%3A1764983895%3AMjAuMTA5LjM2LjIyNg%3D%3D
+HOYTV,https://live.catvod.com/live.php?id=hoycaijing_twn&token=1aadfbe8dcaa352810afdf61a30d6c7c21700649dcf6f08f6bbefe36a0eca8c0%3A1765071579%3ANC4yMzYuMTczLjE2MQ%3D%3D
 TVB Plus,https://hk.188766.xyz/?migutoken=b04fa4dffe66bd60c8d7fd58ae6592b9&id=hk_tvbp&type=dy
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVB Plus,https://live.catvod.com/iptv.php?id=0iwhnrjg
@@ -834,6 +836,7 @@ NewTV惊悚悬疑,https://fenghuang.tv12.xyz/33.m3u8
 NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010003
 NewTV动作电影,http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
 NewTV动作电影,https://fenghuang.tv12.xyz/26.m3u8
+NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
 纬来电影,https://hls-gateway.vpstv.net/streams/477063.m3u8
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 纬来电影,https://live.catvod.com/catvod_com.php?id=videolandmovie
