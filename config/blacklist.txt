@@ -4,7 +4,7 @@
 https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 https://stream1.freetv.fun/atv-5.m3u8
-
+http://8.138.7.223/tv/gdmzyd.php?id=4
 epg.pw/stream/
 103.40.13.71:12390
 [2409:8087:1a01:df::4077]/PLTV/
