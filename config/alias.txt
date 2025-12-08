@@ -56,6 +56,8 @@ CGTN俄语,CGTN俄罗斯语
 
 翡翠台,TVb翡翠台,tvb翡翠台,TVB翡翠台
 明珠台,TVb明珠台,tvb明珠台,TVB明珠台,TVB Pearl
+娱乐新闻台,娛樂新聞台(HK)
+无线新闻台,無線新聞台,无线新闻
 北京卫视,北京卫视4K,北京卫视4K超高清
 凤凰中文,凤凰卫视中文台
 凤凰香港,凤凰卫视香港台
@@ -65,6 +67,29 @@ FZTV1,FZTV-1,福州综合,福州1-新闻
 FZTV3,FZTV-3,福州生活,福州3-生活
 
 无线新闻台,無綫新聞台,無線新聞台,无线新闻,TVB无线新闻,TVB无线新闻台
+年代MUCH台,年代 MUCH 台
+龙华日韩台,龍華日韓台
+龙华电影台,龍華電影台
+靖天电影台,靖天電影台
+凤凰卫视香港台,凤凰卫视香港台（高清版）
+美亚电影台,美亞電影台(HK),美亚电影粤,美亚电影国
+天映频道,天映频道粤,天映频道国
+
+
+
+公视2台（DIMO）,公视 2 台（DIMO）
+公视3台（客家电视）,公视 3 台（客家电视）
+公视4台（原住民族电视）,公视 4 台（原住民族电视）
+星卫HD电影台,星卫 HD 电影台
+TVBS新闻,TVBS 新闻
+TVBS欢乐,TVBS 欢乐
+TVBS亚洲,TVBS 亚洲
+TVBS台劇台,200TVBS台劇台
+ATV综合台,亚洲电视综合台
+ATV新闻台,亚洲电视新闻台
+TVB财经体育资讯台,无线财经·资讯台
+香港开电视,HKTVE
+
 
 港台电视 31,港台電視 31,RTHK31,RTHK 31,RTHK-31
 港台电视 32,港台電視 32,RTHK32,RTHK 32,RTHK-32
@@ -133,3 +158,247 @@ NewTV中国功夫,NEWTV中国功夫,中国功夫
 
 四川卫视,四川卫视4K,四川卫视4K25,四川卫视4K50
 湖南卫视,湖南卫视4K,湖南卫视4K25,湖南卫视4K50
+
+
+
+KBS 1TV,韩国放送公社1台
+KBS 2TV,韩国放送公社2台
+KBS World,KBS世界台
+MBC,文化广播公司,MBC 대전,MBC Andong (안동 MBC) (360p) [Not 24/7],MBC Busan (부산MBC) (360p) [Not 24/7],MBC Chuncheon (춘천 MBC) (480p) [Not 24/7],MBC Chungbuk (MBC 충북) (720p) [Not 24/7],MBC Daegu (대구 MBC) (480p) [Not 24/7]
+SBS,首尔放送公社
+SBS Plus
+SBS FiL
+JTBC,中央东洋放送
+tvN,CJ ENM旗下韩剧/综艺核心台
+OCN,CJ ENM旗下悬疑/动作频道
+Mnet,CJ ENM旗下音乐/偶像频道
+tvN D24,tvN 24小时新闻台
+JTBC Newsroom,JTBC新闻频道
+YTN,韩国24小时新闻台,韩国KOREA YTN
+KOREA YTN Science,YTN科学频道
+Arirang,阿里郎电视台,韩国阿里郎WORLD
+TBS News Bird,TBS新闻鸟台
+首尔TBS电台·电视版,TBS Seoul (720p)
+OBS京仁电视台,OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
+EBS 1台,EBS 1 (400p) [Not 24/7],韩国EBS 第一频道
+EBS 2台,EBS 2 (400p) [Not 24/7],EBS2
+EBS 3台,EBS 3 (400p) [Not 24/7]
+EBS教育专属台,EBS E (400p) [Not 24/7]
+EBS少儿频道,韩国EBS 少儿频道,韩国EBS 儿童频道
+韩国Animax动漫频道,Animax
+国乐电视台,GugakTV 국악방송 (1080p)
+国防电视台,국방TV
+NBS韩国农业放送台,NBS Korea Agricultural Broadcasting
+CTS基督教电视台,CTS기독교TV (720p)
+韩国BBS佛教广播台,韩国BBS佛教广播
+就业plus频道,jobplus
+韩国职业放送台,Job Plus TV (한국직업방송) (480p)
+J电视台,JTV
+光州KCTV 5频道,KCTV 광주 CH05 (720p) [Not 24/7]
+韩国KCTV核心台,韩国KCTV
+KBCTV综合台,KBCTV
+CJ MBC合作频道,CJMBC
+TJBS SBS联合频道,TJBSBS
+KBC SBS联合频道,KBCSBS
+韩国UBC SBS联合频道,韩国UBC SBS
+韩国KTV韩国电视台,韩国KTV 韩国电视
+奢华世界频道,Luxury World
+宝贝第一频道,BabyFirst
+公共事务频道,CPAC
+tvN明星频道,tvN Star
+Channel A综合台,Channel A
+MBC娱乐台,MBC Every1
+MBC戏剧台,MBC Drama
+SBS体育频道,SBS Sports
+KBS体育频道,KBS Sports
+JTBC高尔夫体育台,JTBC Golf&Sports
+
+
+
+
+
+
+
+NHK综合电视台,NHK 総合テレビジョン,NHK G (Tokyo) (544p),NHK G (Osaka) (544p)
+NHK教育台,NHK E (Tokyo) (544p)
+NHK世界台,NHK World-Japan (720p)
+NHK世界premium频道,NHK World Premium
+NHK华语视界,NHK 華語視界,日本NHK华语
+NHK笼崎台,エヌエイチケイ かごしかい
+日本电视台,日本テレビ,Nippon TV (540p) [Not 24/7],Nippon TV (544p)
+日视新闻24小时,日テレNEWS24,NTVNews24
+富士电视台,フジテレビ,Fuji TV (544p),フジジテレビTWO,フジゆレビONE
+TBS电视台,TBSテレビ,TBS News (544p)
+朝日电视台,テレビ朝日,TV Asahi (544p)
+东京电视台,テレビ東京
+大阪电视台,TV Osaka (544p)
+关西电视台,KTV 関西テレビ
+日本全天新闻频道,日本全天新聞
+日本24小时新闻台,日本Japan News 24
+ABEMA新闻频道,ABEMA 新闻
+ABEMA新闻会见频道,ABEMA NEWS会見
+ABEMA海外新闻频道,ABEMA海外新闻
+Mētele 24小时新闻直播,Mētele News Live 24
+朝日新闻数字频道,朝日新聞デジタル
+ABEMA动漫频道,ABEMAアニメ
+ABEMA动漫2频道,ABEMAアニメ2
+星空频道2,スターチャンネル2
+日本Animax动漫频道,Animax Japan
+东京MX电视台,TOKYO MX
+银河频道,チャンネル銀河
+历史频道·日本版,ヒストリーチャンネル
+动作频道,Action
+福克斯日本频道,FOX
+樱桃炸弹频道,チェリーボム
+钓鱼视界频道,钓りビジョン
+绿色频道·生活类,Green Channel (544p)
+家庭剧频道,Home Drama Channel (544p)
+QVC日本购物频道,QVC Japan (720p),QVC
+购物频道,Shop Channel (1080p) [Not 24/7],ShopChannel
+BS日视卫星台,BS日テレ,BS Nippon TV (544p)
+BS富士卫星台,BSフジ,BS Fuji TV (544p)
+BS朝日卫星台,BS朝日,BS Asahi (544p)
+BS东京卫星台,BSテレ東
+BS吉本卫星台,BSよしもと
+BS松竹东急卫星台,BS Shochiku Tokyu (1080p)
+BSN艾网卫星台,BSNアイネット
+凤凰电视台·日本落地版,フェニックステレビ
+中广核日本频道,中广核日本
+J Sports 1体育频道,J Sports 1
+J Sports 2体育频道,J Sports 2
+Sky PerfecTV!体育频道,スカパー!スポーツ
+ABEMA 80年代怀旧频道,ABEMA80年代
+
+
+ABC,美国广播公司
+CBS,哥伦比亚广播公司
+NBC,全国广播公司
+FOX,福克斯广播公司
+PBS,公共广播公司
+CW电视台,哥伦比亚及华纳兄弟联合电视网
+MyNetworkTV,我的网络电视
+CNN,美国有线电视新闻网
+福克斯新闻频道,Fox News Channel
+微软全国广播公司,MSNBC
+消费者新闻与商业频道,CNBC
+彭博电视台,Bloomberg TV
+BBC美国频道,BBC America
+历史频道,History
+历史2台拉丁美洲版,History 2 Latin America
+国家地理频道,National Geographic
+国家地理野生频道,National Geographic Wild,National Geographic Wild (1080p)
+探索频道,Discovery Channel
+探索科学频道,Discovery Science
+动物星球频道,Animal Planet
+娱乐与体育节目电视网,ESPN
+ESPN2频道,ESPN2
+ESPN3频道,ESPN3
+美国职业篮球联赛电视台,NBA TV
+国家橄榄球联盟电视台,NFL Network
+美国职业棒球大联盟电视台,MLB Network
+国家冰球联盟电视台,NHL Network
+家庭影院频道,HBO
+秀时间电视网,Showtime
+星光频道,Starz
+美国经典电影频道,AMC
+福克斯有线电视网,FX
+特纳电视网,TNT
+美国网络频道,USA Network
+布拉沃频道,Bravo
+喜剧中心频道,Comedy Central
+音乐电视网,MTV
+音乐电视网第二频道,VH1
+尼克儿童频道,Nickelodeon
+迪士尼频道,Disney Channel
+卡通频道,Cartoon Network
+家居与园艺电视网,HGTV
+美食频道,Food Network
+厨房频道,In the kitchen
+美食美食频道,Food Food
+旅游频道,Travel Channel
+趣味道路频道,Fun Roads
+学习频道,TLC
+Lifetime女性频道,Lifetime
+氧气频道,Oxygen
+艺术与娱乐频道,A&E
+瑞尔兹频道,Reelz
+复古怀旧频道,Retro Crush
+古典艺术展示频道,Classic Arts Showcase
+融合电视台,FUSION TV (1080p)
+特雷西教育与政府接入频道,Tracy Education and Governmental Access Channel (Tracy CA) (720p)
+光谱频道,Spectrum Channel (720p)
+基督教青年频道,Christian Youth Channel (CYC) (1080p)
+摩托车城频道,Choppertown (720p)
+盖布电视台,Geb Tv (KBPX LD5) (1080p)
+阿森纳频道,Арсенал (480p) [Not 24/7]
+美洲电视台,America TV
+环球电视台,Global TV
+BS新闻247频道,BSNews247
+BC新闻直播频道,BCNewsLive
+美国之声新闻频道,AmericasVoiceNews
+美国犯罪频道,American Crimes
+BC新闻频道,BCNews
+哥伦比亚广播公司洛杉矶新闻频道,CBSNewsLosAngeles
+
+
+
+
+俄罗斯一台,Первый канал
+俄罗斯1台,Россия 1
+新时代电视台,НТВ
+俄罗斯娱乐频道,ТНТ
+STS娱乐频道,СТС
+REN TV综合频道,РЕН ТВ
+第五频道,Пятый канал
+俄罗斯国家电视台,RT
+俄罗斯24小时新闻台,Россия 24
+RBK新闻财经台,РБКТВ
+莫斯科24台,Москва 24
+星台（俄罗斯军事频道）,Звезда,俄罗斯军事频道
+俄罗斯体育频道,Match TV
+体育赛事精选台,Match Premier
+NTV剧集台,НТВ-Сериал
+NTV生活时尚台,НТВ-Стиль
+惊悚悬疑频道,TV-3
+周五娱乐频道,Пятница！
+科教频道,Наука (480p) [Not 24/7]
+美食频道,КулинарТВ
+神秘探索频道,Тайна
+俄罗斯-K文化音乐台,Россия-К
+旋转木马少儿频道,Карусель
+VBRICSRussian频道,ВБРИКС Russian
+ИГИТВ频道,ИГИТВ
+MMHoneyHD频道,MMHoneyHD
+叶尼塞地方频道,Енисей
+CMOREFIRSTHDSE频道,CMOREFIRSTHDSE
+俄罗斯集市频道,RUSSISCHER JAHRMARKT
+俄罗斯中国环球频道,俄罗斯中国环球
+俄罗斯环球国际频道,RTR-Планета
+NTV国际版,НТВ-World
+纬来俄罗斯台,纬来俄罗斯台（华语俄语双语）
+
+
+
+Channel 5,Channel 5 HD,Channel 5（标清版）
+Channel 8,Channel 8 HD,Channel 8（标清版）,8频道 国语
+Channel U,Channel U HD,Channel U（标清版）
+新加坡中文
+CNA亚洲新闻台,CNA 亚洲新闻台（HD）
+CNA938新闻电台,CNA938 新闻电台（视频版）
+Suria,Suria（马来语频道，新传媒旗下）
+Vasantham,Vasantham（泰米尔语频道，新传媒旗下）
+okto,okto（少儿教育频道，新传媒旗下）
+Mediacorp Arts艺术频道
+新加坡体育台,新加坡体育台（Singtel TV独占）
+StarHub TV华语综艺台
+新加坡财经台,新加坡财经台（CNBC Asia 新加坡版）
+新传媒5频道精选,新传媒5频道 精选（英文影视）
+新传媒8频道戏剧台,新传媒8频道 戏剧台（华语剧集）
+
+
+
+
+
+
+
+
