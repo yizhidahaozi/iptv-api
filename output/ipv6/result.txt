@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-08 18:26:27,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-09 06:20:19,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -717,6 +717,7 @@ TVB Plus,http://r.jdshipin.com/ndGgS
 TVB Plus,http://r.jdshipin.com/Nr5jq
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVB Plus,http://hls.168.us.kg/u/82/master.m3u8
+TVB Plus,https://migu.188766.xyz/?migutoken=e151a837265ac38d142470673b27db6d&id=hk_tvbp&type=dy
 HOYTV,https://live.catvod.com/live.php?id=hoycaijing_twn&token=47def6396a87ac5abec038350f6a6397c04c599dd8d30c70c5b124f84b84d293%3A1765156947%3AMTcyLjE4NC4xNzIuMjA4
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 美亚电影台,http://tl.061833.xyz/tl/null-5
