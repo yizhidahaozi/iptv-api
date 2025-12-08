@@ -1,5 +1,5 @@
-这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
-This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
+# 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
+# This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 103.40.13.71:12390
 111.230.30.193
