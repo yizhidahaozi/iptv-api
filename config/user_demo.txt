@@ -133,115 +133,201 @@ CCTV-17
 2025年春晚
 
 
-📺新闻,#genre#
+🌊┃国际 / 跨地区频道,#genre#
 全天新闻
 亚洲新闻
-
-
-
-
-
-🌊┃湾区频道,#genre#
-翡翠台
 凤凰中文
 凤凰资讯
-tvN
+凤凰卫视
+HBO 原创台
+HBO 家庭台
+HBO 巨献台
+HBO 巨献备
+AMC 電影台
+amc 电影台
+AXN 电影台
+712WARNERTV
+ROCK Action
+SUPER Kids Channel
 PopC
-J2
+现在新闻
+
+
+
+🌊┃香港地区，#genre#
+翡翠台
 明珠台
 Pearl 明珠台
 无线明珠
-娛樂新聞台(HK)
+娛樂新聞台 (HK)
 娱乐新闻台
 無線新聞台
 无线新闻台
+无线新闻
 有线新闻
-TVBS新闻
-TVBS欢乐
 寰宇新聞台
-现在新闻
-133爆谷台
-翡翠综合台(北美)
-ROCK Action
-TVB星河
-千禧经典台
-712WARNERTV
-AMC電影台
-200TVBS台劇台
-TVBdrama
-Animax
-美亚电影台
-美亞電影台(HK)
-美亚电影粤
-美亚电影国
-HOYTV
+133 爆谷台
+爆谷台
+TVB 星河
 TVB Plus
 myTV SUPER FREE
-MBC 대전
+HOYTV
 Hoy 78
-天映频道粤
-天映频道国
 Viutv
-三立台湾
-三立新闻
-东森综合
-东森超视
-东森电影
-Now剧集
-Now华剧
-Now星影台
-靖天资讯
-靖天電影台
-星卫娱乐
-卫视卡式
-SUPER Kids Channel
-amc电影台
-Hbo原创台
-Hbo家庭台
-Hbo巨献台
-Hbo巨献备
-AXN电影台
-Channel 5 HD
-Channel 8 HD
-Channel U HD
 RTHK 31
 RTHK 32
 RTHK 33
 RTHK 34
 RTHK 35
 RTHK 36
-中天亞洲台
-中天新聞台
-中視
-千禧經典台
-東森电影国
-8-度空间国
-日本全天新聞
-爆谷台
-新加坡中文
-華視
-龍華日韓台
-龍華電影台
+Now 剧集
+Now 华剧
+Now 星影台
+美亚电影台
+美亞電影台(HK)
+美亚电影粤
+美亚电影国
+天映频道粤
+天映频道国
 凤凰香港
-凤凰卫视
 香港卫视
-TVBS欢乐
-TVBS亚洲
-TVBS新闻
-三立台湾
-无线新闻
-三立新闻
-纬来体育
-纬来育乐
+J2
+千禧经典台
+千禧經典台
+TVBdrama
+翡翠综合台 (北美)
+ViuTVsix
+香港开电视（HKTVE）
+TVB 财经体育资讯台
+无线财经・资讯台
+有线财经资讯台
+有线体育台
+Now Sports
+Now Finance
+美亚电视剧台
+天映经典台
+寰宇电影台
+有线电影一台
+有线电影二台
+ATV 综合台（亚洲电视）
+ATV 新闻台（亚洲电视）
+香港国际财经台
+香港卫视财经台
+TVB 8
+无线经典台
+RTHK 37
+凤凰卫视香港台（高清版）
+Now 爆谷台
+有线娱乐台
+美亚高清电影台
+天映高清频道
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🌊┃台湾地区,#genre#
+台视主频道
+中視
+華視
+民视无线台
 东森综合
-东森超视
+中天综合台
+八大综合台
+年代综合台
+靖天综合台
+TVBS 亚洲
+TVBS 新闻
+三立新闻
+东森新闻台
+中天新聞台
+民视新闻台
+中视新闻台
+华视新闻台
+年代新闻台
+非凡新闻台
+TVBS 台劇台（200TVBS 台劇台）
+八大戏剧台
+东森戏剧台
+纬来戏剧台
+龙华戏剧台
+民视综艺台
+八大娱乐台
+中视综艺台
+华视综艺台
+中天娱乐台
+TVBS 欢乐
+纬来体育
+靖天体育台
 东森电影
-Now剧集
-Now华剧
-靖天资讯
+東森电影国
+纬来电影台
+星卫电影台
+星卫 HD 电影台
+卫视电影台
+靖天電影台
+东森财经新闻台
+非凡商业台
+东森幼幼台
+华视教育文化台
+台湾交通电视台
+台湾艺术电视台
+公视主频
+公视 2 台（DIMO）
+公视 3 台（客家电视）
+公视 4 台（原住民族电视）
+大爱电视台
+法界卫星电视台
+纬来育乐
 星卫娱乐
 卫视卡式
+龍華日韓台
+龍華電影台
+年代 MUCH 台
+纬来日本台
+龙华综合台
 
+
+
+
+
+
+🌊┃新加坡地区，#genre#
+Channel 5 HD
+Channel 8 HD
+Channel U HD
+新加坡中文
+8 频道 国语
+CNA 亚洲新闻台（HD）
+CNA938 新闻电台（视频版）
+Suria（马来语频道，新传媒旗下）
+Vasantham（泰米尔语频道，新传媒旗下）
+okto（少儿教育频道，新传媒旗下）
+Channel 5（标清版）
+Channel 8（标清版）
+Channel U（标清版）
+Mediacorp Arts 艺术频道
+新加坡体育台（Singtel TV 独占）
+StarHub TV 华语综艺台
+新加坡财经台（CNBC Asia 新加坡版）
+新传媒 5 频道 精选（英文影视）
+新传媒 8 频道 戏剧台（华语剧集）
 
 
 
@@ -264,164 +350,253 @@ NewTV动作电影
 艾尔达娱乐
 
 
-🌊俄罗斯,#genre#
-Наука (480p) [Not 24/7]
-VBRICSRussian
-RT
-IGITV
-MMHoneyHD
-Енисей
-РБКТВ
-Тайна
-CMOREFIRSTHDSE
-КулинарТВ
-RUSSISCHERJAHRMARKT
+🌊俄罗斯，#genre#
+Первый канал（俄罗斯一台）
+Россия 1（俄罗斯 1 台）
+НТВ（新时代电视台）
+ТНТ（俄罗斯娱乐频道）
+СТС（STS 娱乐频道）
+РЕН ТВ（REN TV 综合频道）
+Пятый канал（第五频道）
+RT（俄罗斯国家电视台）
+Россия 24（俄罗斯 24 小时新闻台）
+РБКТВ（RBK 新闻财经台）
+Москва 24（莫斯科 24 台）
+Звезда（星台，俄罗斯军事频道）
 俄罗斯军事频道
+Match TV（俄罗斯体育频道）
+Match Premier（体育赛事精选台）
+НТВ-Сериал（NTV 剧集台）
+НТВ-Стиль（NTV 生活时尚台）
+TV-3（惊悚悬疑频道）
+Пятница！（周五娱乐频道）
+Наука (480p) [Not 24/7]（科教频道）
+КулинарТВ（美食频道）
+Тайна（神秘探索频道）
+Россия-К（俄罗斯 - K 文化音乐台）
+Карусель（旋转木马少儿频道）
+ВБРИКС Russian（VBRICSRussian）
+ИГИТВ（IGITV）
+MMHoneyHD
+Енисей（叶尼塞地方频道）
+CMOREFIRSTHDSE
+RUSSISCHER JAHRMARKT
 俄罗斯中国环球
-俄罗斯俄罗斯一台
+RTR-Планета（俄罗斯环球国际频道）
+НТВ-World（NTV 国际版）
+纬来俄罗斯台（华语俄语双语）
 
 
 
-🌊美国,#genre#
-Tracy Education and Governmental Access Channel (Tracy CA) (720p)
-Spectrum Channel (720p)
-Retro Crush
-In the kitchen
-Fun Roads
-Food Food
-Christian Youth Channel (CYC) (1080p)
-Choppertown (720p)
-Geb Tv (KBPX LD5) (1080p)
-Classic Arts Showcase
-FUSION TV (1080p)
-History 2 Latin America
-History
-National Geographic Wild
-National Geographic Wild (1080p),
-Reelz
-Арсенал (480p) [Not 24/7]
-mericaTV
-lobalTV
-BSNews247
-BCNewsLive
-AmericasVoiceNews
-American Crimes
-BCNews
-CBSNewsLosAngeles
+🌊美国，#genre#
+ABC（美国广播公司）
+CBS（哥伦比亚广播公司）
+NBC（全国广播公司）
+FOX（福克斯广播公司）
+PBS（公共广播公司）
+CW 电视台（哥伦比亚及华纳兄弟联合电视网）
+MyNetworkTV（我的网络电视）
+CNN（美国有线电视新闻网）
+Fox News Channel（福克斯新闻频道）
+MSNBC（微软全国广播公司）
+CNBC（消费者新闻与商业频道）
+Bloomberg TV（彭博电视台）
+BBC America（BBC 美国频道）
+History（历史频道）
+History 2 Latin America（历史 2 台拉丁美洲版）
+National Geographic（国家地理频道）
+National Geographic Wild（国家地理野生频道）
+National Geographic Wild (1080p)（国家地理野生频道 (1080p)）
+Discovery Channel（探索频道）
+Discovery Science（探索科学频道）
+Animal Planet（动物星球频道）
+ESPN（娱乐与体育节目电视网）
+ESPN2
+ESPN3
+NBA TV（美国职业篮球联赛电视台）
+NFL Network（国家橄榄球联盟电视台）
+MLB Network（美国职业棒球大联盟电视台）
+NHL Network（国家冰球联盟电视台）
+HBO（家庭影院频道）
+Showtime（秀时间电视网）
+Starz（星光频道）
+AMC（美国经典电影频道）
+FX（福克斯有线电视网）
+TNT（特纳电视网）
+USA Network（美国网络频道）
+Bravo（布拉沃频道）
+Comedy Central（喜剧中心频道）
+MTV（音乐电视网）
+VH1（音乐电视网第二频道）
+Nickelodeon（尼克儿童频道）
+Disney Channel（迪士尼频道）
+Cartoon Network（卡通频道）
+HGTV（家居与园艺电视网）
+Food Network（美食频道）
+In the kitchen（厨房频道）
+Food Food（美食美食频道）
+Travel Channel（旅游频道）
+Fun Roads（趣味道路频道）
+TLC（学习频道）
+Lifetime（ Lifetime 女性频道）
+Oxygen（氧气频道）
+A&E（艺术与娱乐频道）
+Reelz（瑞尔兹频道）
+Retro Crush（复古怀旧频道）
+Classic Arts Showcase（古典艺术展示频道）
+FUSION TV (1080p)（融合电视台 (1080p)）
+Tracy Education and Governmental Access Channel (Tracy CA) (720p)（特雷西教育与政府接入频道 (特雷西加州)(720p)）
+Spectrum Channel (720p)（光谱频道 (720p)）
+Christian Youth Channel (CYC) (1080p)（基督教青年频道 (CYC)(1080p)）
+Choppertown (720p)（摩托车城频道 (720p)）
+Geb Tv (KBPX LD5) (1080p)（盖布电视台 (KBPX LD5)(1080p)）
+Арсенал (480p) [Not 24/7]（阿森纳频道 (480p)[非 24 小时播出]）
+America TV（美洲电视台，修正原 "mericaTV" 拼写）
+Global TV（环球电视台，修正原 "lobalTV" 拼写）
+BSNews247（BS 新闻 247 频道）
+BCNewsLive（BC 新闻直播频道）
+AmericasVoiceNews（美国之声新闻频道）
+American Crimes（美国犯罪频道）
+BCNews（BC 新闻频道）
+CBSNewsLosAngeles（哥伦比亚广播公司洛杉矶新闻频道）
 
 
 
 
 
-🌊日本,#genre#
-NHK World-Japan (720p)
-Nippon TV (540p) [Not 24/7]
-QVC Japan (720p)
-Shop Channel (1080p) [Not 24/7]
-NTVNews24
-ShopChannel
-スターチャンネル2
-フジテレビ
-钓りビジョン
-日本テレビ
-Action
-FOX
-QVC
+🌊日本地区，#genre#
+NHK 総合テレビジョン（NHK 综合电视台）
+NHK G (Tokyo) (544p)（NHK 综合台・东京版）
+NHK G (Osaka) (544p)（NHK 综合台・大阪版）
+NHK E (Tokyo) (544p)（NHK 教育台・东京版）
+NHK World-Japan (720p)（NHK 世界台）
+NHK World Premium（NHK 世界 premium 频道）
+NHK 華語視界（NHK 华语视界）
+日本 NHK 华语（NHK 华语频道）
+エヌエイチケイ かごしかい（NHK 笼崎台，地方频道）
+日本テレビ（日本电视台）
+Nippon TV (540p) [Not 24/7]（日本电视台・540p 版）
+Nippon TV (544p)（日本电视台・544p 版）
+日テレ NEWS24（日视新闻 24 小时）
+NTVNews24（日视新闻 24 小时国际版）
+フジテレビ（富士电视台）
+Fuji TV (544p)（富士电视台・544p 版）
+フジジテレビ TWO（富士电视台 TWO）
+フジゆレビ ONE（富士波动 ONE 频道）
+TBS テレビ（TBS 电视台）
+TBS News (544p)（TBS 新闻频道・544p 版）
+テレビ朝日（朝日电视台）
+TV Asahi (544p)（朝日电视台・544p 版）
+テレビ東京（东京电视台）
+TV Osaka (544p)（大阪电视台）
+KTV 関西テレビ（关西电视台）
+日本全天新聞（日本全天新闻频道）
+日本 Japan News 24（日本 24 小时新闻台）
+ABEMA 新闻（ABEMA 新闻频道）
+ABEMA NEWS 会見（ABEMA 新闻会见频道）
+ABEMA 海外新闻（ABEMA 海外新闻频道）
+Mētele News Live 24（Mētele 24 小时新闻直播）
+朝日新聞デジタル（朝日新闻数字频道）
+ABEMA アニメ（ABEMA 动漫频道）
+ABEMA アニメ 2（ABEMA 动漫 2 频道）
+スターチャンネル 2（星空频道 2）
+Animax Japan（日本 Animax 动漫频道）
+TOKYO MX（东京 MX 电视台，动漫核心台）
+チャンネル銀河（银河频道）
+ヒストリーチャンネル（历史频道・日本版）
+Action（动作频道）
+FOX（福克斯日本频道）
+チェリーボム（樱桃炸弹频道）
+钓りビジョン（钓鱼视界频道）
+Green Channel (544p)（绿色频道・生活类）
+Home Drama Channel (544p)（家庭剧频道）
+QVC Japan (720p)（QVC 日本购物频道・720p 版）
+QVC（QVC 购物频道・标清版）
+Shop Channel (1080p) [Not 24/7]（购物频道・1080p 版）
+ShopChannel（购物频道・标清版）
+BS 日テレ（BS 日视卫星台）
+BS Nippon TV (544p)（BS 日视卫星台・544p 版）
+BS フジ（BS 富士卫星台）
+BS Fuji TV (544p)（BS 富士卫星台・544p 版）
+BS 朝日（BS 朝日卫星台）
+BS Asahi (544p)（BS 朝日卫星台・544p 版）
+BS テレ東（BS 东京卫星台）
+BS よしもと（BS 吉本卫星台，喜剧类）
+BS Shochiku Tokyu (1080p)（BS 松竹东急卫星台・1080p 版）
+BSN アイネット（BSN 艾网卫星台）
+フェニックステレビ（凤凰电视台・日本落地版）
+中广核日本（中广核日本频道）
+J Sports 1（J Sports 1 体育频道）
+J Sports 2（J Sports 2 体育频道）
+スカパー！スポーツ（Sky PerfecTV! 体育频道）
+ABEMA80 年代（ABEMA 80 年代怀旧频道）
+テレビ大阪（大阪电视台・重复剔除后保留）
 
-日本NHK华语
-日·NHK
 
-
-エヌエイチケイ かごしかい
-BS Asahi (544p)
-BS Fuji TV (544p)
-BS Nippon TV (544p)
-BS Shochiku Tokyu (1080p)
-Fuji TV (544p)
-Green Channel (544p)
-Home Drama Channel (544p)
-NHK E (Tokyo) (544p)
-NHK G (Osaka) (544p)
-NHK G (Tokyo) (544p)
-Nippon TV (544p)
-TV Asahi (544p)
-TBS News (544p)
-TV Asahi (544p)
-TV Osaka (544p)
-
-チャンネル銀河
-ヒストリーチャンネル
-NHK総合テレビジョン
-ABEMAアニメ
-ABEMAアニメ2
-ABEMA80年代
-ABEMA海外新闻
-日本Japan News 24
-ABEMA 新闻
-ABEMA NEWS会見
-朝日新聞デジタル
-BS朝日
-BSフジ
-BS日テレ
-BSNアイネット
-BSテレ東
-BSよしもと
-中广核日本
-チェリーボム
-フジゆレビONE
-フジジテレビTWO
-东京电视台， テレビ東京
-Mētele News Live 24
-NHK華語視界
-日テレNEWS24
-フェニックステレビ
-
-
-
-🌊韩国,#genre#
-CTS기독교TV (720p)
-EBS 1 (400p) [Not 24/7]
-EBS 2 (400p) [Not 24/7]
-EBS2
-EBS 3 (400p) [Not 24/7]
-EBS E (400p) [Not 24/7]
-GugakTV 국악방송 (1080p)
-jobplus
-국방TV
-Job Plus TV (한국직업방송) (480p)
-JTV
-KCTV 광주 CH05 (720p) [Not 24/7]
-MBC
-MBC Andong (안동 MBC) (360p) [Not 24/7]
-MBC Busan (부산MBC) (360p) [Not 24/7]
-MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]
-MBC Chungbuk (MBC 충북) (720p) [Not 24/7]
-MBC Daegu (대구 MBC) (480p) [Not 24/7]
-TBS Seoul (720p)
-OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]
-NBS Korea Agricultural Broadca
-TJBSBS
-KBCTV
-CJMBC
-Arirang
-KBCSBS
-
-韩国EBS 第一频道
-韩国EBS 少儿频道
-韩国EBS 儿童频道
-韩国KCTV
-韩国UBC SBS
-韩国KOREA YTN
-韩国KTV 韩国电视
-韩国阿里郎WORLDworld
-韩国阿里郎WORLD
-TBS News Bird
-KOREA YTN Science
-Luxury World
-韩国BBS佛教广播
-BabyFirst
-CPAC
-
+🌊韩国地区，#genre#
+KBS 1TV（韩国放送公社 1 台，综合公共台）
+KBS 2TV（韩国放送公社 2 台，娱乐综合台）
+KBS World（KBS 世界台，国际版）
+MBC（文化广播公司，核心综合台）
+MBC 대전（MBC 大田地方台）
+MBC Andong (안동 MBC) (360p) [Not 24/7]（MBC 安东地方台）
+MBC Busan (부산MBC) (360p) [Not 24/7]（MBC 釜山地方台）
+MBC Chuncheon (춘천 MBC) (480p) [Not 24/7]（MBC 春川地方台）
+MBC Chungbuk (MBC 충북) (720p) [Not 24/7]（MBC 忠北地方台）
+MBC Daegu (대구 MBC) (480p) [Not 24/7]（MBC 大邱地方台）
+SBS（首尔放送公社，核心综合台）
+SBS Plus（SBS 娱乐加台）
+SBS FiL（SBS 电影戏剧台）
+JTBC（中央东洋放送，综合有线台）
+tvN（CJ ENM 旗下，韩剧 / 综艺核心台）
+OCN（CJ ENM 旗下，悬疑 / 动作频道）
+Mnet（CJ ENM 旗下，音乐 / 偶像频道）
+tvN D24（tvN 24 小时新闻台）
+JTBC Newsroom（JTBC 新闻频道）
+YTN（韩国 24 小时新闻台）
+韩国 KOREA YTN（YTN 核心新闻台）
+KOREA YTN Science（YTN 科学频道）
+Arirang（阿里郎电视台，英语国际台）
+韩国阿里郎 WORLD（阿里郎世界台）
+韩国阿里郎 WORLDworld（阿里郎世界台・重复修正）
+TBS News Bird（TBS 新闻鸟台，国际新闻）
+TBS Seoul (720p)（首尔 TBS 电台・电视版）
+OBS Gyeongin TV (OBS경인TV) (540p) [Not 24/7]（OBS 京仁电视台）
+EBS 1 (400p) [Not 24/7]（教育广播公社 1 台）
+韩国 EBS 第一频道（EBS 1 台・中文标注版）
+EBS 2 (400p) [Not 24/7]（教育广播公社 2 台）
+EBS2（EBS 2 台・简写修正）
+EBS 3 (400p) [Not 24/7]（EBS 3 台）
+EBS E (400p) [Not 24/7]（EBS 教育专属台）
+韩国 EBS 少儿频道（EBS 少儿台）
+韩国 EBS 儿童频道（EBS 儿童台）
+Animax（韩国 CJ ENM 旗下，动画频道）
+GugakTV 국악방송 (1080p)（国乐电视台，传统音乐频道）
+국방TV（国防电视台，军事主题）
+NBS Korea Agricultural Broadcasting（NBS 韩国农业放送・拼写修正）
+CTS기독교TV (720p)（CTS 基督教电视台）
+韩国 BBS 佛教广播（BBS 佛教电视台）
+jobplus（就业 plus 频道）
+Job Plus TV (한국직업방송) (480p)（韩国职业放送台）
+JTV（J 电视台，综合特色台）
+KCTV 광주 CH05 (720p) [Not 24/7]（光州 KCTV 5 频道）
+韩国 KCTV（KCTV 核心台）
+KBCTV（KBCTV 综合台）
+CJMBC（CJ MBC 合作频道）
+TJBSBS（TJBS SBS 联合频道）
+KBCSBS（KBC SBS 联合频道）
+韩国 UBC SBS（UBC SBS 联合频道）
+韩国 KTV 韩国电视（KTV 韩国电视台）
+Luxury World（奢华世界频道，生活时尚）
+BabyFirst（宝贝第一频道，少儿启蒙）
+CPAC（公共事务频道，政治类）
+tvN Star（tvN 明星频道，综艺精选）
+Channel A（Channel A 综合台）
+MBC Every1（MBC 娱乐台）
+MBC Drama（MBC 戏剧台）
+SBS Sports（SBS 体育频道）
+KBS Sports（KBS 体育频道）
+JTBC Golf&Sports（JTBC 高尔夫体育台）
 
 
 
