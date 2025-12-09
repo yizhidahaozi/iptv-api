@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-09 06:20:19,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-09 18:24:22,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -719,6 +719,7 @@ TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVB Plus,http://hls.168.us.kg/u/82/master.m3u8
 TVB Plus,https://migu.188766.xyz/?migutoken=e151a837265ac38d142470673b27db6d&id=hk_tvbp&type=dy
 HOYTV,https://live.catvod.com/live.php?id=hoycaijing_twn&token=47def6396a87ac5abec038350f6a6397c04c599dd8d30c70c5b124f84b84d293%3A1765156947%3AMTcyLjE4NC4xNzIuMjA4
+HOYTV,https://live.catvod.com/live.php?id=hoycaijing_twn&token=ac70bc26fa3dcb530a707caf74391ddc553e9b85d04942db8219bed0777865f4%3A1765243433%3AMTcyLjIxNS4yMTAuNTI%3D
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 美亚电影台,http://tl.061833.xyz/tl/null-5
 美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
@@ -818,6 +819,9 @@ ViuTVsix,http://hls.168.us.kg/u/96/master.m3u8
 纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=bdbdf4f6c60a734f7d4e9d5df9b0560eda167e4ab02bb2ca0d69fc48d5976284%3A1761354848%3ANTIuMTYxLjQ1LjIyNA%3D%3D
 纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=e36fcda3f4b7e8b5909afdfb1f84325efd61edc43f87499f92b5ce17f8583f78%3A1761441669%3ANDguMjExLjIxMC4xMTM%3D
 纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=f4285b730aa7ae26f34d642ef98783e6f0a7d0bdd94beff459c7e07023633714%3A1765156947%3AMTcyLjE4NC4xNzIuMjA4
+
+🌊┃新加坡地区，#genre#,#genre#
+新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 
 🐶┃影视频道,#genre#
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
