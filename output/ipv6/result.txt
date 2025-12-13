@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-13 06:20:45,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-13 18:21:13,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -728,6 +728,7 @@ HOYTV,https://live.catvod.com/live.php?id=hoycaijing_twn&token=ac70bc26fa3dcb530
 HOYTV,https://live.catvod.com/live.php?id=hoycaijing_twn&token=74ad32d7e2a1538c9f27d5fec1c29af3c8ad2281141d10fcb5e73bcec5f09dfb%3A1765329935%3AMjAuMTY5Ljc1LjE5OA%3D%3D
 HOYTV,https://live.catvod.com/live.php?id=hoycaijing_twn&token=73d7544a4a0aecbfddc1df691e1326393db57449a1549f59f1a8fefaf2eaf1cb%3A1765416382%3AMTQ1LjEzMi45OS4yMQ%3D%3D
 HOYTV,https://live.catvod.com/live.php?id=hoycaijing_twn&token=c5b1732ebaa56ea8a3878cb4cbd875bb1be413893f8768503e4d880bf7d56a63%3A1765502750%3ANTIuMTYxLjQ1LjIyOA%3D%3D
+HOYTV,https://live.catvod.com/live.php?id=hoycaijing_twn&token=41f36ba2dcc0056ee5ae873e199529faa6968f8a14d6826117b6bb0679b1f28b%3A1765588729%3ANjQuMjM2LjE0MC4yMTE%3D
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 美亚电影台,http://tl.061833.xyz/tl/null-5
 美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
